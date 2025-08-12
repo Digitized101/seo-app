@@ -19,3 +19,4 @@
 *.pfx
 .DS_Store
 replacements.txt
+.env
