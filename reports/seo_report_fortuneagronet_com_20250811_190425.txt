@@ -1,0 +1,3644 @@
+
+============================================================
+COMPREHENSIVE SEO ANALYSIS REPORT
+============================================================
+
+Website: https://fortuneagronet.com
+Brand: Fortune Agro Net
+Pages Analyzed: 49
+Analysis Date: 2025-08-11 19:04:14
+
+========================================
+SUMMARY
+========================================
+Total Issues Found: 311
+Total Suggestions: 658
+Pages with Errors: 24
+
+Overall SEO Score: 35.0/100
+⚠️  Homepage critical issues detected - overall score capped
+
+Score Breakdown:
+  Architecture: 94/100
+  Title: 66.8/100
+  Meta Description: 59.0/100
+  Headings: 52.6/100
+  Body Content: 55.8/100
+  Images: 59.4/100
+  Schema: 0.0/100
+  Page Insights Mobile: 60.5/100
+  Page Insights Desktop: 82.0/100
+
+Schema Score Distribution:
+  Good: 0 pages
+  Fair: 0 pages
+  Poor: 25 pages
+
+Most Common Issues:
+  • No schema markup found (25 occurrences)
+  • Primary keyword "Shade Net Manufacturing" not found in H1 tag (24 occurrences)
+  • Primary keyword "Shade Net Manufacturing" not found in body content (24 occurrences)
+  • Heading hierarchy skipped from H1 to H4 (22 occurrences)
+  • Primary keyword "Shade Net Manufacturing" not found in title (21 occurrences)
+
+PageSpeed Insights Summary:
+  Mobile Performance: 60.5/100 (avg of 2 pages)
+  Desktop Performance: 82.0/100 (avg of 1 pages)
+
+Keywords Used for Analysis:
+Primary Keyword: Shade Net Manufacturing
+Secondary Keywords: Shade Net Company, Shade Net Supplier, Agriculture Shade Net, Commercial Shade Net
+Total Keywords Extracted: 20
+Keywords File: keywords_fortuneagronet_com_20250811_190001.txt
+
+Keywords extracted from: https://fortuneagronet.com
+Extraction method: AI
+Extraction date: 2025-08-11 19:00:01
+Total keywords found: 20
+--------------------------------------------------
+Fortune Agro Net (BRAND NAME)
+Shade Net Manufacturing (PRIMARY KEYWORD)
+Shade Net Company
+Shade Net Supplier
+Agriculture Shade Net
+Commercial Shade Net
+Wind Protection Net
+Bird Protection Net
+Insect Protection Net
+Mulching Sheets
+Grow Bag Supplier
+UV Rope Manufacturer
+Anti Hail Net Supplier
+Poultry Farm Net
+Aquaculture Net Manufacturer
+Sun Shading Net
+Fencing Net
+Construction Net
+Safety Net
+Gujarat Shade Net Company
+
+
+========================================
+WEBSITE ARCHITECTURE
+========================================
+Pages Crawled: 26
+
+Architecture Score: 94/100
+Status: 🟢 GOOD
+
+Crawlability:
+  Robots.txt: Found
+  Crawling Allowed: Yes
+  Status: PASS
+
+Indexability:
+  Sitemap.xml: Found
+  URLs in Sitemap: 26
+  Status: PASS
+
+Site Structure:
+  Max Depth: 1 clicks
+  Flat Structure: 100.0%
+  Depth Distribution: {0: 1, 1: 25}
+
+URL Analysis:
+  Total URLs: 50
+  Broken Links: 24
+  Redirects: 0
+  Deep Pages (>3 clicks): 0
+  Keyword URLs: 49
+  Clean URLs: 50
+
+Issues:
+❌ 24 broken internal links found
+
+Suggestions:
+• Sitemap.xml found with URLs
+• Fix broken internal links to improve user experience and crawlability
+
+========================================
+URLS TO BE ANALYZED
+========================================
+49 total urls found
+
+1. [HOMEPAGE] https://fortuneagronet.com (48 internal links, priority: 1048)
+2. [CONTACT] https://fortuneagronet.com/Contact.aspx (48 internal links, priority: 948)
+3. [ABOUT] https://fortuneagronet.com/about-us.html (29 internal links, priority: 929)
+4. [OTHER] https://fortuneagronet.com/Weed-Mate.html (42 internal links, priority: 112)
+5. [OTHER] https://fortuneagronet.com/Anti-Hail-Net.html (42 internal links, priority: 112)
+6. [OTHER] https://fortuneagronet.com/Scaffolding-Net.html (42 internal links, priority: 112)
+7. [OTHER] https://fortuneagronet.com/Wind-Protection-Net.html (42 internal links, priority: 112)
+8. [OTHER] https://fortuneagronet.com/Poultry-Farm-Net.html (22 internal links, priority: 92)
+9. [OTHER] https://fortuneagronet.com/Partition-Net.html (22 internal links, priority: 92)
+10. [OTHER] https://fortuneagronet.com/UV-Rope.html (22 internal links, priority: 92)
+11. [OTHER] https://fortuneagronet.com/Grow-Bag.html (21 internal links, priority: 91)
+12. [OTHER] https://fortuneagronet.com/Insect-Protection-Net.html (21 internal links, priority: 91)
+13. [OTHER] https://fortuneagronet.com/Apron-Fabric.html (21 internal links, priority: 91)
+14. [OTHER] https://fortuneagronet.com/Bird-Protection-Net.html (21 internal links, priority: 91)
+15. [OTHER] https://fortuneagronet.com/Multicolor-Strap-Net.html (21 internal links, priority: 91)
+16. [OTHER] https://fortuneagronet.com/Mulching-Sheets.html (21 internal links, priority: 91)
+17. [OTHER] https://fortuneagronet.com/Flooring-for-events.html (21 internal links, priority: 91)
+18. [OTHER] https://fortuneagronet.com/MonoFilament-Shade-Net.html (21 internal links, priority: 91)
+19. [OTHER] https://fortuneagronet.com/Construction-Nets.html (21 internal links, priority: 91)
+20. [OTHER] https://fortuneagronet.com/Dust-Protection-Net.html (21 internal links, priority: 91)
+21. [OTHER] https://fortuneagronet.com/Mulching-Film.html (21 internal links, priority: 91)
+22. [OTHER] https://fortuneagronet.com/Fencing-Nets.html (21 internal links, priority: 91)
+23. [OTHER] https://fortuneagronet.com/Sun-Shading-Net.html (21 internal links, priority: 91)
+24. [OTHER] https://fortuneagronet.com/Aquaculture-Net.html (21 internal links, priority: 91)
+25. [OTHER] https://fortuneagronet.com/Tape-Filament-Shade-Net.html (21 internal links, priority: 91)
+26. [OTHER] https://fortuneagronet.com/Weed Mate.html (7 internal links, priority: 77)
+27. [OTHER] https://fortuneagronet.com/Anti Hail Net.html (7 internal links, priority: 77)
+28. [OTHER] https://fortuneagronet.com/Scaffolding Net.html (7 internal links, priority: 77)
+29. [OTHER] https://fortuneagronet.com/Wind Protection Net.html (6 internal links, priority: 76)
+30. [OTHER] https://fortuneagronet.com/Tape Filament Shade Net.html (4 internal links, priority: 74)
+31. [OTHER] https://fortuneagronet.com/Mulching Film.html (4 internal links, priority: 74)
+32. [OTHER] https://fortuneagronet.com/Sun Shading Net.html (4 internal links, priority: 74)
+33. [OTHER] https://fortuneagronet.com/Flooring for events.html (4 internal links, priority: 74)
+34. [OTHER] https://fortuneagronet.com/Mulching Sheets.html (3 internal links, priority: 73)
+35. [OTHER] https://fortuneagronet.com/Construction Nets.html (3 internal links, priority: 73)
+36. [OTHER] https://fortuneagronet.com/Bird Protection Net.html (3 internal links, priority: 73)
+37. [OTHER] https://fortuneagronet.com/Fencing Nets.html (3 internal links, priority: 73)
+38. [OTHER] https://fortuneagronet.com/UV Rope.html (3 internal links, priority: 73)
+39. [OTHER] https://fortuneagronet.com/MonoFilament Shade Net.html (3 internal links, priority: 73)
+40. [OTHER] https://fortuneagronet.com/Grow Bag.html (3 internal links, priority: 73)
+41. [OTHER] https://fortuneagronet.com/Aquaculture Net.html (3 internal links, priority: 73)
+42. [OTHER] https://fortuneagronet.com/Dust Protection Net.html (3 internal links, priority: 73)
+43. [OTHER] https://fortuneagronet.com/Poultry Farm Net.html (3 internal links, priority: 73)
+44. [OTHER] https://fortuneagronet.com/Multicolor Strap Net.html (3 internal links, priority: 73)
+45. [OTHER] https://fortuneagronet.com/Insect Protection Net.html (3 internal links, priority: 73)
+46. [OTHER] https://fortuneagronet.com/Apron Fabric.html (3 internal links, priority: 73)
+47. [OTHER] https://fortuneagronet.com/Partition Net.html (3 internal links, priority: 73)
+48. [OTHER] https://fortuneagronet.com/Construction Net.html (1 internal links, priority: 71)
+49. [OTHER] https://fortuneagronet.com/Safety Net.html (1 internal links, priority: 71)
+
+========================================
+PAGE-BY-PAGE ANALYSIS
+========================================
+
+Page 1: https://fortuneagronet.com
+Page Type: HOMEPAGE | Internal Links: 48
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Fortune Agro Net - Shade Net Manufacturing Company in Gujarat, India
+Length: 68 characters
+
+Title Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Title is too long (68 characters)
+❌ Title contains duplicate meaningful words: net
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Remove duplicate meaningful words to make title more concise
+• Consider using format: "Fortune Agro Net | Shade Net Manufacturing" for homepage title
+• Consider adding secondary keywords to improve relevance
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 129 characters
+
+Meta Description Score: 80/100
+Status: 🟢 GOOD
+
+Issues:
+❌ Meta description contains duplicate meaningful words: net
+
+Suggestions:
+• Meta description could be slightly longer for better optimization
+• Remove duplicate meaningful words to make description more concise
+• Primary keyword "Fortune Agro Net" found in meta description
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Secondary keywords found in meta description
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:0
+H2:2
+H3:1
+
+Headings Score: 35/100
+Status: 🔴 POOR
+
+Issues:
+❌ Missing H1 tag
+❌ Heading hierarchy skipped from H2 to H4
+❌ All caps headings found: H4
+
+Suggestions:
+• Add exactly one H1 tag as the main page heading
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Use proper capitalization instead of all caps for better readability
+
+📖 4. Body Content Analysis:
+370 words, 2362 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword density too low (0.3%)
+❌ No H1 tag found
+❌ Average sentence length too long (33.8 words)
+
+Suggestions:
+• Content length is optimal for SEO
+• Increase primary keyword "Shade Net Manufacturing" usage to 1-2% density
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+7 total, 7 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. banner3.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  3. banner1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  4. banner2.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  5. about-us1.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+and 2 more images found
+
+Most common issues found:
+• Not responsive: 7 images
+• Old image format: 7 images
+• Missing dimensions: 7 images
+• Missing keywords in alt text: 7 images
+• Missing title attribute: 7 images
+
+General Issues:
+❌ 7 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+⚡ 7. PageSpeed Insights:
+
+MOBILE:
+Performance Score: 65/100
+Status: 🟡 NEEDS IMPROVEMENT
+LCP: 22.8 s
+FID: 90 ms
+CLS: 0.043
+FCP: 0.8 s
+TTFB: Root document took 290 ms
+
+DESKTOP:
+Error: Request timeout - API took too long to respond
+
+Page 2: https://fortuneagronet.com/Contact.aspx
+Page Type: CONTACT | Internal Links: 48
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Fortune Agro Net
+Length: 16 characters
+
+Title Score: 60/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Title is too short (16 characters)
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title should be between 50-60 characters for better SEO
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 0 characters
+
+Meta Description Score: 0/100
+Status: 🔴 POOR
+
+Issues:
+❌ Missing meta description
+
+Suggestions:
+• Add a meta description tag to improve search result snippets
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Heading hierarchy skipped from H2 to H5
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Deep heading levels (H5-H6) used without sufficient H2 structure
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+116 words, 776 characters
+
+Body Content Score: 30/100
+Status: 🔴 POOR
+
+Issues:
+❌ Content too short (116 words)
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Add more content - aim for at least 300 words for better SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+1 total, 1 with alt text
+
+Images Score: 75/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+
+Most common issues found:
+• Not responsive: 1 images
+• Old image format: 1 images
+• Missing dimensions: 1 images
+• Missing keywords in alt text: 1 images
+• Missing title attribute: 1 images
+
+General Issues:
+❌ 1 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider using srcset or picture elements for responsive images
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+⚡ 7. PageSpeed Insights:
+
+MOBILE:
+Performance Score: 56/100
+Status: 🟡 NEEDS IMPROVEMENT
+LCP: 10.8 s
+FID: 40 ms
+CLS: 0.004
+FCP: 5.7 s
+TTFB: Root document took 300 ms
+
+DESKTOP:
+Performance Score: 82/100
+Status: 🟡 NEEDS IMPROVEMENT
+LCP: 2.1 s
+FID: 20 ms
+CLS: 0.001
+FCP: 1.1 s
+TTFB: Root document took 260 ms
+
+Page 3: https://fortuneagronet.com/about-us.html
+Page Type: ABOUT | Internal Links: 29
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Fortune Agro Net - Shade Net Manufacturing Company in Gujarat, India
+Length: 68 characters
+
+Title Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Title is too long (68 characters)
+❌ Title contains duplicate meaningful words: net
+❌ Primary keyword "Shade Net Manufacturing" should be front-loaded
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Remove duplicate meaningful words to make title more concise
+• Move primary keyword to the front of title (after modifiers) for better SEO
+• Consider adding secondary keywords to improve relevance
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 129 characters
+
+Meta Description Score: 80/100
+Status: 🟢 GOOD
+
+Issues:
+❌ Meta description contains duplicate meaningful words: net
+
+Suggestions:
+• Meta description could be slightly longer for better optimization
+• Remove duplicate meaningful words to make description more concise
+• Primary keyword "Fortune Agro Net" found in meta description
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Secondary keywords found in meta description
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:2
+H3:0
+
+Headings Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Heading hierarchy skipped from H2 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+398 words, 2600 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+7 total, 7 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. profile1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  3. profile2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  4. profile3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  5. profile4.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+and 2 more images found
+
+Most common issues found:
+• Not responsive: 7 images
+• Old image format: 7 images
+• Missing dimensions: 7 images
+• Missing keywords in alt text: 7 images
+• Missing title attribute: 7 images
+
+General Issues:
+❌ 7 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 4: https://fortuneagronet.com/Weed-Mate.html
+Page Type: OTHER | Internal Links: 42
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Weed Mate Manufacturing Company in Gujarat, India
+Length: 49 characters
+
+Title Score: 60/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 164 characters
+
+Meta Description Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too long (164 characters)
+❌ Meta description contains duplicate meaningful words: ground
+❌ Primary keyword "Fortune Agro Net" not found in meta description
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Include primary keyword "Fortune Agro Net" in meta description for better relevance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+500 words, 2985 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+6 total, 6 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  4. 1.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  5. 2.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+and 1 more images found
+
+Most common issues found:
+• Not responsive: 6 images
+• Old image format: 6 images
+• Missing dimensions: 6 images
+• Missing keywords in alt text: 6 images
+• Missing title attribute: 6 images
+
+General Issues:
+❌ 6 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 5: https://fortuneagronet.com/Anti-Hail-Net.html
+Page Type: OTHER | Internal Links: 42
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Anti-Hail Nets Manufacturing Company in Gujarat, India
+Length: 54 characters
+
+Title Score: 75/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 181 characters
+
+Meta Description Score: 70/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Meta description is too long (181 characters)
+❌ Meta description contains duplicate meaningful words: anti-hail, best, quality, net
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Primary keyword "Fortune Agro Net" found in meta description
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+555 words, 3434 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+8 total, 8 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  5. 4.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+and 3 more images found
+
+Most common issues found:
+• Not responsive: 8 images
+• Old image format: 8 images
+• Missing keywords in alt text: 8 images
+• Missing title attribute: 8 images
+• Not in figure element: 8 images
+
+General Issues:
+❌ 8 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 6: https://fortuneagronet.com/Scaffolding-Net.html
+Page Type: OTHER | Internal Links: 42
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Scaffolding Net Manufacturing Company in Gujarat, India
+Length: 55 characters
+
+Title Score: 75/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 133 characters
+
+Meta Description Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Fortune Agro Net" not found in meta description
+
+Suggestions:
+• Meta description could be slightly longer for better optimization
+• Include primary keyword "Fortune Agro Net" in meta description for better relevance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+466 words, 3103 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+7 total, 7 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  5. 4.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+and 2 more images found
+
+Most common issues found:
+• Not responsive: 7 images
+• Old image format: 7 images
+• Missing keywords in alt text: 7 images
+• Missing title attribute: 7 images
+• Not in figure element: 7 images
+
+General Issues:
+❌ 7 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 7: https://fortuneagronet.com/Wind-Protection-Net.html
+Page Type: OTHER | Internal Links: 42
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Wind Protection Net Manufacturing Company in Gujarat, India
+Length: 59 characters
+
+Title Score: 75/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Consider adding secondary keywords to improve relevance
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 147 characters
+
+Meta Description Score: 75/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Meta description contains duplicate meaningful words: shade, from
+
+Suggestions:
+• Meta description could be slightly longer for better optimization
+• Remove duplicate meaningful words to make description more concise
+• Primary keyword "Fortune Agro Net" found in meta description
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:0
+H3:0
+
+Headings Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H1 but jumps to H3 without H2
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+236 words, 1572 characters
+
+Body Content Score: 40/100
+Status: 🔴 POOR
+
+Issues:
+❌ Content could be longer (236 words)
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+❌ Average sentence length too long (39.7 words)
+
+Suggestions:
+• Add more content - aim for at least 300 words for better SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+4 total, 4 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+
+Most common issues found:
+• Not responsive: 4 images
+• Old image format: 4 images
+• Missing keywords in alt text: 4 images
+• Missing title attribute: 4 images
+• Not in figure element: 4 images
+
+General Issues:
+❌ 4 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 8: https://fortuneagronet.com/Poultry-Farm-Net.html
+Page Type: OTHER | Internal Links: 22
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Poultry Farm Net Manufacturing Company in Gujarat, India
+Length: 56 characters
+
+Title Score: 75/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Consider adding secondary keywords to improve relevance
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 175 characters
+
+Meta Description Score: 70/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Meta description is too long (175 characters)
+❌ Meta description contains duplicate meaningful words: net, poultry
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Primary keyword "Fortune Agro Net" found in meta description
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+431 words, 2596 characters
+
+Body Content Score: 55/100
+Status: 🔴 POOR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+❌ Average sentence length too long (25.5 words)
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+4 total, 4 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+
+Most common issues found:
+• Not responsive: 4 images
+• Old image format: 4 images
+• Missing keywords in alt text: 4 images
+• Missing title attribute: 4 images
+• Not in figure element: 4 images
+
+General Issues:
+❌ 4 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 9: https://fortuneagronet.com/Partition-Net.html
+Page Type: OTHER | Internal Links: 22
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Partition Net Manufacturing Company in Gujarat, India
+Length: 53 characters
+
+Title Score: 75/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 113 characters
+
+Meta Description Score: 40/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too short (113 characters)
+❌ Meta description contains duplicate meaningful words: net
+❌ Primary keyword "Fortune Agro Net" not found in meta description
+
+Suggestions:
+• Meta description should be between 150-160 characters for optimal search visibility
+• Remove duplicate meaningful words to make description more concise
+• Include primary keyword "Fortune Agro Net" in meta description for better relevance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:0
+H3:0
+
+Headings Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H1 but jumps to H3 without H2
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+235 words, 1486 characters
+
+Body Content Score: 40/100
+Status: 🔴 POOR
+
+Issues:
+❌ Content could be longer (235 words)
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+❌ Average sentence length too long (47.4 words)
+
+Suggestions:
+• Add more content - aim for at least 300 words for better SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+4 total, 4 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+
+Most common issues found:
+• Not responsive: 4 images
+• Old image format: 4 images
+• Missing dimensions: 4 images
+• Missing keywords in alt text: 4 images
+• Missing title attribute: 4 images
+
+General Issues:
+❌ 4 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 10: https://fortuneagronet.com/UV-Rope.html
+Page Type: OTHER | Internal Links: 22
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: UV Ropes Manufacturing Company in Gujarat, India
+Length: 48 characters
+
+Title Score: 60/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 183 characters
+
+Meta Description Score: 70/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Meta description is too long (183 characters)
+❌ Meta description contains duplicate meaningful words: rope
+❌ All caps text detected: UV, UV
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Primary keyword "Fortune Agro Net" found in meta description
+• Avoid using all caps text as it appears unprofessional and may hurt readability
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+475 words, 2816 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+6 total, 6 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  5. 7.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+and 1 more images found
+
+Most common issues found:
+• Not responsive: 6 images
+• Old image format: 6 images
+• Missing keywords in alt text: 6 images
+• Missing title attribute: 6 images
+• Not in figure element: 6 images
+
+General Issues:
+❌ 6 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 11: https://fortuneagronet.com/Grow-Bag.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Grow Bag Manufacturing Company in Gujarat, India
+Length: 48 characters
+
+Title Score: 60/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 150 characters
+
+Meta Description Score: 80/100
+Status: 🟢 GOOD
+
+Issues:
+❌ Meta description contains duplicate meaningful words: grow
+
+Suggestions:
+• Meta description length is optimal (150-160 characters)
+• Remove duplicate meaningful words to make description more concise
+• Primary keyword "Fortune Agro Net" found in meta description
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+535 words, 3174 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+5 total, 5 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  5. 4.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+
+Most common issues found:
+• Not responsive: 5 images
+• Old image format: 5 images
+• Missing keywords in alt text: 5 images
+• Missing title attribute: 5 images
+• Not in figure element: 5 images
+
+General Issues:
+❌ 5 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 12: https://fortuneagronet.com/Insect-Protection-Net.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Insect Protection Net Manufacturing Company in Gujarat, India
+Length: 61 characters
+
+Title Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Title is too long (61 characters)
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Consider adding secondary keywords to improve relevance
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 131 characters
+
+Meta Description Score: 75/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Meta description contains duplicate meaningful words: net
+
+Suggestions:
+• Meta description could be slightly longer for better optimization
+• Remove duplicate meaningful words to make description more concise
+• Primary keyword "Fortune Agro Net" found in meta description
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+503 words, 3139 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+6 total, 6 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  5. 4.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+and 1 more images found
+
+Most common issues found:
+• Not responsive: 6 images
+• Old image format: 6 images
+• Missing keywords in alt text: 6 images
+• Missing title attribute: 6 images
+• Not in figure element: 6 images
+
+General Issues:
+❌ 6 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 13: https://fortuneagronet.com/Apron-Fabric.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Apron Fabric Shade net Manufacturing Company in Gujarat, India
+Length: 62 characters
+
+Title Score: 70/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Title is too long (62 characters)
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" should be front-loaded
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Move primary keyword to the front of title (after modifiers) for better SEO
+• Consider adding secondary keywords to improve relevance
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 194 characters
+
+Meta Description Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too long (194 characters)
+❌ Meta description contains duplicate meaningful words: more
+❌ Primary keyword "Fortune Agro Net" not found in meta description
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Include primary keyword "Fortune Agro Net" in meta description for better relevance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+426 words, 2686 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+5 total, 5 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  5. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+
+Most common issues found:
+• Not responsive: 5 images
+• Old image format: 5 images
+• Missing keywords in alt text: 5 images
+• Missing title attribute: 5 images
+• Not in figure element: 5 images
+
+General Issues:
+❌ 5 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 14: https://fortuneagronet.com/Bird-Protection-Net.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Bird protection net Manufacturing Company in Gujarat, India
+Length: 59 characters
+
+Title Score: 75/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Consider adding secondary keywords to improve relevance
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 122 characters
+
+Meta Description Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Fortune Agro Net" not found in meta description
+
+Suggestions:
+• Meta description could be slightly longer for better optimization
+• Include primary keyword "Fortune Agro Net" in meta description for better relevance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+614 words, 3709 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+7 total, 7 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  5. 4.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+and 2 more images found
+
+Most common issues found:
+• Not responsive: 7 images
+• Old image format: 7 images
+• Missing keywords in alt text: 7 images
+• Missing title attribute: 7 images
+• Not in figure element: 7 images
+
+General Issues:
+❌ 7 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 15: https://fortuneagronet.com/Multicolor-Strap-Net.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Multicolor Strap Net Manufacturing Company in Gujarat, India
+Length: 60 characters
+
+Title Score: 75/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 113 characters
+
+Meta Description Score: 40/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too short (113 characters)
+❌ Meta description contains duplicate meaningful words: net
+❌ Primary keyword "Fortune Agro Net" not found in meta description
+
+Suggestions:
+• Meta description should be between 150-160 characters for optimal search visibility
+• Remove duplicate meaningful words to make description more concise
+• Include primary keyword "Fortune Agro Net" in meta description for better relevance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+372 words, 2348 characters
+
+Body Content Score: 55/100
+Status: 🔴 POOR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+❌ Average sentence length too long (34.0 words)
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+4 total, 4 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 4.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  3. 5.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  4. 6.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+
+Most common issues found:
+• Not responsive: 4 images
+• Old image format: 4 images
+• Missing dimensions: 4 images
+• Missing keywords in alt text: 4 images
+• Missing title attribute: 4 images
+
+General Issues:
+❌ 4 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 16: https://fortuneagronet.com/Mulching-Sheets.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Mulching Sheet Manufacturing Company in Gujarat, India
+Length: 54 characters
+
+Title Score: 75/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 175 characters
+
+Meta Description Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Meta description is too long (175 characters)
+❌ Primary keyword "Fortune Agro Net" not found in meta description
+❌ All caps text detected: LLDPE
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Include primary keyword "Fortune Agro Net" in meta description for better relevance
+• Avoid using all caps text as it appears unprofessional and may hurt readability
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+486 words, 3122 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+6 total, 6 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  5. 4.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+and 1 more images found
+
+Most common issues found:
+• Not responsive: 6 images
+• Old image format: 6 images
+• Missing dimensions: 6 images
+• Missing keywords in alt text: 6 images
+• Missing title attribute: 6 images
+
+General Issues:
+❌ 6 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 17: https://fortuneagronet.com/Flooring-for-events.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Flooring nets Manufacturing Company in Gujarat, India
+Length: 53 characters
+
+Title Score: 75/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 135 characters
+
+Meta Description Score: 75/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Meta description contains duplicate meaningful words: net
+
+Suggestions:
+• Meta description could be slightly longer for better optimization
+• Remove duplicate meaningful words to make description more concise
+• Primary keyword "Fortune Agro Net" found in meta description
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+386 words, 2436 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+4 total, 4 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+
+Most common issues found:
+• Not responsive: 4 images
+• Old image format: 4 images
+• Missing dimensions: 4 images
+• Missing keywords in alt text: 4 images
+• Missing title attribute: 4 images
+
+General Issues:
+❌ 4 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 18: https://fortuneagronet.com/MonoFilament-Shade-Net.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Mono Filament Shade Nets Manufacturing Company in Gujarat, India
+Length: 64 characters
+
+Title Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Title is too long (64 characters)
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 183 characters
+
+Meta Description Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too long (183 characters)
+❌ Meta description contains duplicate meaningful words: production,
+❌ Primary keyword "Fortune Agro Net" not found in meta description
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Include primary keyword "Fortune Agro Net" in meta description for better relevance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+419 words, 2666 characters
+
+Body Content Score: 55/100
+Status: 🔴 POOR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+❌ Average sentence length too long (28.0 words)
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+4 total, 4 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+
+Most common issues found:
+• Not responsive: 4 images
+• Old image format: 4 images
+• Missing dimensions: 4 images
+• Missing keywords in alt text: 4 images
+• Missing title attribute: 4 images
+
+General Issues:
+❌ 4 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 19: https://fortuneagronet.com/Construction-Nets.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Construction Net Manufacturing Company in Gujarat, India
+Length: 56 characters
+
+Title Score: 75/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Consider adding secondary keywords to improve relevance
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 144 characters
+
+Meta Description Score: 75/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Meta description contains duplicate meaningful words: construction, safety
+
+Suggestions:
+• Meta description could be slightly longer for better optimization
+• Remove duplicate meaningful words to make description more concise
+• Primary keyword "Fortune Agro Net" found in meta description
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:0
+H3:0
+
+Headings Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H1 but jumps to H3 without H2
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+222 words, 1543 characters
+
+Body Content Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Content could be longer (222 words)
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Add more content - aim for at least 300 words for better SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+7 total, 1 with alt text
+
+Images Score: 15/100
+Status: 🔴 POOR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ No alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ No alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ No alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  5. 4.jpg
+❌ No alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+and 2 more images found
+
+Most common issues found:
+• Not responsive: 7 images
+• Old image format: 7 images
+• Missing title attribute: 7 images
+• Not in figure element: 7 images
+• No alt text: 6 images
+
+General Issues:
+❌ 12 images missing proper alt text
+❌ 6 images missing alt attribute
+❌ 6 images have empty alt text
+
+Suggestions:
+• Add alt attributes to all images for accessibility and SEO
+• Add alt attributes to all images for accessibility and SEO
+• Provide descriptive alt text for images (or use alt="" for decorative images)
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 20: https://fortuneagronet.com/Dust-Protection-Net.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Dust Protection Net Manufacturing Company in Gujarat, India
+Length: 59 characters
+
+Title Score: 75/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 214 characters
+
+Meta Description Score: 70/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Meta description is too long (214 characters)
+❌ Meta description contains duplicate meaningful words: nets
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Primary keyword "Fortune Agro Net" found in meta description
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+388 words, 2488 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+7 total, 7 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  5. 4.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+and 2 more images found
+
+Most common issues found:
+• Not responsive: 7 images
+• Old image format: 7 images
+• Missing keywords in alt text: 7 images
+• Missing title attribute: 7 images
+• Not in figure element: 7 images
+
+General Issues:
+❌ 7 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 21: https://fortuneagronet.com/Mulching-Film.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Fortune Agro Net
+Length: 16 characters
+
+Title Score: 60/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Title is too short (16 characters)
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title should be between 50-60 characters for better SEO
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 0 characters
+
+Meta Description Score: 0/100
+Status: 🔴 POOR
+
+Issues:
+❌ Missing meta description
+
+Suggestions:
+• Add a meta description tag to improve search result snippets
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+486 words, 3105 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+3 total, 3 with alt text
+
+Images Score: 75/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+
+Most common issues found:
+• Not responsive: 3 images
+• Old image format: 3 images
+• Missing dimensions: 3 images
+• Missing keywords in alt text: 3 images
+• Missing title attribute: 3 images
+
+General Issues:
+❌ 3 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider using srcset or picture elements for responsive images
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 22: https://fortuneagronet.com/Fencing-Nets.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Fencing Net Manufacturing Company in Gujarat, India
+Length: 51 characters
+
+Title Score: 75/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Consider adding secondary keywords to improve relevance
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 134 characters
+
+Meta Description Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Fortune Agro Net" not found in meta description
+
+Suggestions:
+• Meta description could be slightly longer for better optimization
+• Include primary keyword "Fortune Agro Net" in meta description for better relevance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+465 words, 2979 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+4 total, 4 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+
+Most common issues found:
+• Not responsive: 4 images
+• Old image format: 4 images
+• Missing dimensions: 4 images
+• Missing keywords in alt text: 4 images
+• Missing title attribute: 4 images
+
+General Issues:
+❌ 4 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 23: https://fortuneagronet.com/Sun-Shading-Net.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Sunshade Net Manufacturing Company in Gujarat, India
+Length: 52 characters
+
+Title Score: 100/100
+Status: ✅ GOOD
+
+Issues:
+❌ Brand name not found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Consider adding secondary keywords to improve relevance
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 210 characters
+
+Meta Description Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too long (210 characters)
+❌ Meta description contains duplicate meaningful words: net, shade
+❌ Primary keyword "Fortune Agro Net" not found in meta description
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Include primary keyword "Fortune Agro Net" in meta description for better relevance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+505 words, 3095 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+5 total, 5 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  5. 4.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+
+Most common issues found:
+• Not responsive: 5 images
+• Old image format: 5 images
+• Missing keywords in alt text: 5 images
+• Missing title attribute: 5 images
+• Not in figure element: 5 images
+
+General Issues:
+❌ 5 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 24: https://fortuneagronet.com/Aquaculture-Net.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Aquaculture Nets Manufacturing Company in Gujarat, India
+Length: 56 characters
+
+Title Score: 75/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 165 characters
+
+Meta Description Score: 70/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Meta description is too long (165 characters)
+❌ Meta description contains duplicate meaningful words: nets
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Primary keyword "Fortune Agro Net" found in meta description
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+481 words, 2994 characters
+
+Body Content Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+5 total, 5 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. aqua.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  3. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  4. 2.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  5. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+
+Most common issues found:
+• Not responsive: 5 images
+• Old image format: 5 images
+• Missing keywords in alt text: 5 images
+• Missing title attribute: 5 images
+• Not in figure element: 5 images
+
+General Issues:
+❌ 5 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 25: https://fortuneagronet.com/Tape-Filament-Shade-Net.html
+Page Type: OTHER | Internal Links: 21
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Tape Filament Shade Nets Manufacturing Company in Gujarat, India
+Length: 64 characters
+
+Title Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Title is too long (64 characters)
+❌ Brand name not found in title
+❌ Primary keyword "Shade Net Manufacturing" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Include brand name "Fortune Agro Net" in title for brand recognition
+• Include primary keyword "Shade Net Manufacturing" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 99 characters
+
+Meta Description Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too short (99 characters)
+❌ Primary keyword "Fortune Agro Net" not found in meta description
+
+Suggestions:
+• Meta description should be between 150-160 characters for optimal search visibility
+• Include primary keyword "Fortune Agro Net" in meta description for better relevance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:1
+H3:0
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Heading structure has H2 but jumps to H4 without H3
+❌ Primary keyword "Shade Net Manufacturing" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• Ensure each heading level is used before jumping to deeper levels
+
+📖 4. Body Content Analysis:
+404 words, 2527 characters
+
+Body Content Score: 55/100
+Status: 🔴 POOR
+
+Issues:
+❌ Primary keyword "Shade Net Manufacturing" not found in body content
+❌ Average sentence length too long (25.3 words)
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Shade Net Manufacturing" naturally in your content
+• Consider including secondary keyword "Shade Net Company" in content
+
+🖼️ 5. Images Analysis:
+4 total, 4 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+  1. fortune-black.png
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing dimensions
+❌ Missing title attribute
+❌ Not in figure element
+  2. 1.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  3. 2.jpg
+❌ Missing keywords in alt text
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+  4. 3.jpg
+❌ Missing keywords in alt text
+❌ Missing lazy loading
+❌ Not responsive
+❌ Old image format
+❌ Missing title attribute
+❌ Not in figure element
+
+Most common issues found:
+• Not responsive: 4 images
+• Old image format: 4 images
+• Missing keywords in alt text: 4 images
+• Missing title attribute: 4 images
+• Not in figure element: 4 images
+
+General Issues:
+❌ 4 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Include relevant keywords like "Shade Net Manufacturing" in alt text where appropriate
+• Consider adding loading="lazy" to images below the fold for better performance
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 26: ERROR - Failed to fetch URL (Status: 404)
+
+Page 27: ERROR - Failed to fetch URL (Status: 404)
+
+Page 28: ERROR - Failed to fetch URL (Status: 404)
+
+Page 29: ERROR - Failed to fetch URL (Status: 404)
+
+Page 30: ERROR - Failed to fetch URL (Status: 404)
+
+Page 31: ERROR - Failed to fetch URL (Status: 404)
+
+Page 32: ERROR - Failed to fetch URL (Status: 404)
+
+Page 33: ERROR - Failed to fetch URL (Status: 404)
+
+Page 34: ERROR - Failed to fetch URL (Status: 404)
+
+Page 35: ERROR - Failed to fetch URL (Status: 404)
+
+Page 36: ERROR - Failed to fetch URL (Status: 404)
+
+Page 37: ERROR - Failed to fetch URL (Status: 404)
+
+Page 38: ERROR - Failed to fetch URL (Status: 404)
+
+Page 39: ERROR - Failed to fetch URL (Status: 404)
+
+Page 40: ERROR - Failed to fetch URL (Status: 404)
+
+Page 41: ERROR - Failed to fetch URL (Status: 404)
+
+Page 42: ERROR - Failed to fetch URL (Status: 404)
+
+Page 43: ERROR - Failed to fetch URL (Status: 404)
+
+Page 44: ERROR - Failed to fetch URL (Status: 404)
+
+Page 45: ERROR - Failed to fetch URL (Status: 404)
+
+Page 46: ERROR - Failed to fetch URL (Status: 404)
+
+Page 47: ERROR - Failed to fetch URL (Status: 404)
+
+Page 48: ERROR - Failed to fetch URL (Status: 404)
+
+Page 49: ERROR - Failed to fetch URL (Status: 404)
