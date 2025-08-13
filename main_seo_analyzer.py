@@ -148,8 +148,8 @@ def generate_seo_report(base_url: str, num_pages: int = 5, use_ai_keywords: bool
     page_analyses = []
     for i, url in enumerate(top_urls, 1):
         print(f"Analyzing page {i}/{len(top_urls)}: {url}")
-        # Run page insights only for top 2 pages when AI keywords are enabled
-        include_insights = use_ai_keywords and i <= 2
+        # Run page insights only for top 1 page when AI keywords are enabled
+        include_insights = use_ai_keywords and i <= 1
         page_analysis = analyze_single_page(url, brand_name, keyword_list, include_insights, base_url)
         page_analyses.append(page_analysis)
     
