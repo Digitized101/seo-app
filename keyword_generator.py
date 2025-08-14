@@ -19,11 +19,13 @@ env_paths = [
     script_dir / '.env',  # Same directory as script
     Path.cwd() / '.env',  # Current working directory
     script_dir.parent / '.env',  # Parent directory
+    Path('/Users/annika/Documents/aiml/.env'),  # Explicit path
 ]
 
 for env_path in env_paths:
     if env_path.exists():
         load_dotenv(env_path)
+        print(f"Loaded .env from: {env_path}")
         break
 
 class KeywordGenerator:

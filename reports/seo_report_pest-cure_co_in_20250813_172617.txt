@@ -1,0 +1,72 @@
+
+============================================================
+COMPREHENSIVE SEO ANALYSIS REPORT
+============================================================
+
+Website: https://www.pest-cure.co.in/
+Brand: Brand
+Pages Analyzed: 1
+Analysis Date: 2025-08-13 17:26:17
+
+========================================
+SUMMARY
+========================================
+Total Issues Found: 2
+Total Suggestions: 2
+Pages with Errors: 1
+
+Overall SEO Score: 41.0/100
+
+Score Breakdown:
+  Architecture: 41/100
+
+Keywords Used for Analysis:
+Primary Keyword: SEO
+Secondary Keywords: Website, Analysis
+
+========================================
+WEBSITE ARCHITECTURE
+========================================
+Pages Crawled: 0
+
+Architecture Score: 41/100
+Status: 🔴 POOR
+
+Crawlability:
+  Robots.txt: Found
+  Crawling Allowed: Yes
+  Status: PASS
+
+Indexability:
+  Sitemap.xml: Not Found
+  URLs in Sitemap: 0
+  Status: FAIL
+
+URL Analysis:
+  Total URLs: 1
+  Broken Links: 1
+  Redirects: 0
+  Deep Pages (>3 clicks): 0
+  Keyword URLs: 0
+  Clean URLs: 1
+
+Issues:
+❌ Sitemap.xml not found
+❌ Only 0/1 URLs are keyword-friendly
+
+Suggestions:
+• Create and submit an XML sitemap to help search engines discover your pages
+• Use descriptive, keyword-rich URLs instead of generic IDs or numbers
+
+========================================
+URLS TO BE ANALYZED
+========================================
+1 total urls found
+
+1. [HOMEPAGE] https://www.pest-cure.co.in/ (0 internal links, priority: 0)
+
+========================================
+PAGE-BY-PAGE ANALYSIS
+========================================
+
+Page 1: ERROR - Failed to fetch URL (Status: 403)

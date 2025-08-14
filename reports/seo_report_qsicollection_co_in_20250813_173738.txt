@@ -1,0 +1,706 @@
+
+============================================================
+COMPREHENSIVE SEO ANALYSIS REPORT
+============================================================
+
+Website: https://www.qsicollection.co.in/
+Brand: Q.S.I. Collection
+Pages Analyzed: 5
+Analysis Date: 2025-08-13 17:37:38
+
+========================================
+SUMMARY
+========================================
+Total Issues Found: 85
+Total Suggestions: 159
+Pages with Errors: 0
+
+Overall SEO Score: 65.4/100
+
+Score Breakdown:
+  Architecture: 85/100
+  Title: 66.0/100
+  Meta Description: 74.0/100
+  Headings: 73.0/100
+  Body Content: 57.0/100
+  Images: 51.0/100
+  Schema: 17.4/100
+  Page Insights Mobile: 99.0/100
+  Page Insights Desktop: 97.0/100
+
+Schema Score Distribution:
+  Good: 1 pages
+  Fair: 0 pages
+  Poor: 4 pages
+
+Most Common Issues:
+  • Special characters that may break display: '&' (5 occurrences)
+  • 3 images have brand name in alt text (5 occurrences)
+  • Primary keyword "Manufacturer" not found in H1 tag (4 occurrences)
+  • No schema markup found (4 occurrences)
+  • All caps text detected: Q.S.I. (3 occurrences)
+
+PageSpeed Insights Summary:
+  Mobile Performance: 99.0/100 (avg of 1 pages)
+  Desktop Performance: 97.0/100 (avg of 1 pages)
+
+Keywords Used for Analysis:
+Primary Keyword: Manufacturer
+Secondary Keywords: Camouflage Net, Animal Cages, Sports Net, Meerut
+Total Keywords Extracted: 19
+Keywords File: keywords_qsicollection_co_in_20250813_173653.txt
+
+Keywords extracted from: https://www.qsicollection.co.in/
+Extraction method: AI
+Extraction date: 2025-08-13 17:36:53
+Total keywords found: 19
+--------------------------------------------------
+Q.S.I. Collection (BRAND NAME)
+Manufacturer (PRIMARY KEYWORD)
+Camouflage Net
+Animal Cages
+Sports Net
+Meerut
+Uttar Pradesh
+India
+Jali Kothi
+Cricket Leg Spot
+Shooting Ball
+Basket Ball Ring Nets
+Football
+Volleyball
+Cricket Equipment
+Outdoor Sports Gear
+Animal Enclosures
+Netting Solutions
+Indian Manufacturer
+
+
+========================================
+WEBSITE ARCHITECTURE
+========================================
+Pages Crawled: 5
+
+Architecture Score: 85/100
+Status: 🟢 GOOD
+
+Crawlability:
+  Robots.txt: Found
+  Crawling Allowed: Yes
+  Status: PASS
+
+Indexability:
+  Sitemap.xml: Found
+  URLs in Sitemap: 0
+  Status: PASS
+
+Site Structure:
+  Max Depth: 1 clicks
+  Flat Structure: 100.0%
+  Depth Distribution: {0: 1, 1: 4}
+
+URL Analysis:
+  Total URLs: 5
+  Broken Links: 0
+  Redirects: 0
+  Deep Pages (>3 clicks): 0
+  Keyword URLs: 4
+  Clean URLs: 5
+
+Issues:
+❌ Sitemap.xml is empty or invalid
+
+Suggestions:
+• Ensure your sitemap contains valid URLs and follows XML sitemap protocol
+
+========================================
+URLS TO BE ANALYZED
+========================================
+48 total urls found
+
+1. [HOMEPAGE] https://www.qsicollection.co.in (12 internal links, priority: 1012)
+2. [TESTIMONIALS] https://www.qsicollection.co.in/testimonial.html (5 internal links, priority: 905)
+3. [CATEGORY] https://www.qsicollection.co.in/camouflage-net.html (19 internal links, priority: 99)
+4. [CATEGORY] https://www.qsicollection.co.in/cricket-leg-spot-shooting-ball.html (18 internal links, priority: 98)
+5. [CATEGORY] https://www.qsicollection.co.in/cricket-net.html (16 internal links, priority: 96)
+
+43 more URLs found but not analyzed for SEO.
+
+========================================
+PAGE-BY-PAGE ANALYSIS
+========================================
+
+Page 1: https://www.qsicollection.co.in
+Page Type: HOMEPAGE | Internal Links: 12
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Manufacturer of Camouflage Net & Animal Cages by Q.S.I. Collection, Meerut
+Length: 74 characters
+
+Title Score: 70/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Title is too long (74 characters)
+❌ Special characters that may break display: '&'
+❌ Excessive punctuation detected (4 punctuation marks)
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Remove or properly encode special characters like quotes, brackets, and line breaks
+• Reduce punctuation usage for better readability and professional appearance
+• Consider using format: "Q.S.I. Collection | Manufacturer" for homepage title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 111 characters
+
+Meta Description Score: 80/100
+Status: 🟢 GOOD
+
+Issues:
+❌ Meta description is too short (111 characters)
+❌ Special characters that may break display: '&'
+❌ Excessive punctuation detected (6 punctuation marks)
+❌ All caps text detected: Q.S.I.
+
+Suggestions:
+• Meta description should be between 150-160 characters for optimal search visibility
+• Primary keyword "Manufacturer" found in meta description
+• Remove or properly encode special characters like quotes, brackets, and line breaks
+• Reduce punctuation usage for better readability and professional appearance
+• Avoid using all caps text as it appears unprofessional and may hurt readability
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Secondary keywords found in meta description
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:4
+H3:0
+
+Headings Score: 85/100
+Status: 🟢 GOOD
+
+Issues:
+❌ Primary keyword "Manufacturer" not found in H1 tag
+❌ Heading distribution heavily skewed toward H2 tags (4 out of 4 non-H1 headings)
+❌ Too many headings for content length (40 words per heading)
+
+Suggestions:
+• H1 tag properly implemented
+• Include primary keyword "Manufacturer" in H1 tag for better SEO
+• Diversify heading levels to create better content hierarchy
+
+📖 4. Body Content Analysis:
+297 words, 1798 characters
+
+Body Content Score: 67/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Content could be longer (297 words)
+❌ Primary keyword density could be higher (0.7%)
+
+Suggestions:
+• Add more content - aim for at least 300 words for better SEO
+• Increase primary keyword "Manufacturer" usage to 1-2% density
+• Secondary keyword "Camouflage Net" found in content
+
+🖼️ 5. Images Analysis:
+15 total, 15 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+Most common issues found:
+• Not responsive: 15 images
+• Old image format: 15 images
+• Missing dimensions: 15 images
+• Missing keywords in alt text: 15 images
+• Missing title attribute: 15 images
+
+General Issues:
+❌ 3 images have brand name in alt text
+❌ 15 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Remove brand name from alt text - focus on describing the image content
+• Include relevant keywords like "Manufacturer" in alt text where appropriate
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 87/100
+Status: 🟢 GOOD
+Schema Types: JSON-LD: LocalBusiness
+
+Issues:
+❌ Limited schema markup implementation
+
+Suggestions:
+• Organization schema has required fields (name, url)
+• Organization schema includes contact information
+• Schema markup includes images for rich snippets
+
+⚡ 7. PageSpeed Insights:
+
+MOBILE:
+Performance Score: 99/100
+Status: 🟢 GOOD
+LCP: 1.8 s
+FID: 60 ms
+CLS: 0.002
+FCP: 1.7 s
+TTFB: Root document took 60 ms
+
+DESKTOP:
+Performance Score: 97/100
+Status: 🟢 GOOD
+LCP: 1.1 s
+FID: 110 ms
+CLS: 0.055
+FCP: 0.5 s
+TTFB: Root document took 30 ms
+
+Page 2: https://www.qsicollection.co.in/testimonial.html
+Page Type: TESTIMONIALS | Internal Links: 5
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Manufacturer of Camouflage Net & Animal Cages by Q.S.I. Collection, Meerut
+Length: 74 characters
+
+Title Score: 70/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Title is too long (74 characters)
+❌ Special characters that may break display: '&'
+❌ Excessive punctuation detected (4 punctuation marks)
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Remove or properly encode special characters like quotes, brackets, and line breaks
+• Reduce punctuation usage for better readability and professional appearance
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 68 characters
+
+Meta Description Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too short (68 characters)
+❌ Primary keyword "Manufacturer" not found in meta description
+❌ Excessive punctuation detected (6 punctuation marks)
+❌ All caps text detected: Q.S.I.
+
+Suggestions:
+• Meta description should be between 150-160 characters for optimal search visibility
+• Include primary keyword "Manufacturer" in meta description for better relevance
+• Reduce punctuation usage for better readability and professional appearance
+• Avoid using all caps text as it appears unprofessional and may hurt readability
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:0
+H2:1
+H3:0
+
+Headings Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Missing H1 tag
+❌ Special characters found in headings: H2
+❌ Too few headings for content length (391 words per heading)
+
+Suggestions:
+• Add exactly one H1 tag as the main page heading
+• Remove special characters from headings for better readability and SEO
+• Add more headings to break up long content sections
+
+📖 4. Body Content Analysis:
+719 words, 4724 characters
+
+Body Content Score: 42/100
+Status: 🔴 POOR
+
+Issues:
+❌ Primary keyword "Manufacturer" not found in body content
+❌ No H1 tag found
+❌ Average sentence length too long (31.4 words)
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Manufacturer" naturally in your content
+• Secondary keyword "Camouflage Net" found in content
+
+🖼️ 5. Images Analysis:
+6 total, 5 with alt text
+
+Images Score: 45/100
+Status: 🔴 POOR
+
+Images:
+Most common issues found:
+• Not responsive: 6 images
+• Missing dimensions: 6 images
+• Missing title attribute: 6 images
+• Not in figure element: 6 images
+• Missing keywords in alt text: 5 images
+
+General Issues:
+❌ 1 images missing alt attribute
+❌ 3 images have brand name in alt text
+❌ 5 images missing keywords in alt text
+
+Suggestions:
+• Good alt text coverage, room for improvement
+• Add alt attributes to all images for accessibility and SEO
+• Remove brand name from alt text - focus on describing the image content
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 3: https://www.qsicollection.co.in/camouflage-net.html
+Page Type: CATEGORY | Internal Links: 19
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Camouflage Net - Multispectral Camouflage Net MSCN (CNMS-01) QSICO Manufacturer from Meerut
+Length: 91 characters
+
+Title Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Title is too long (91 characters)
+❌ Title contains duplicate meaningful words: camouflage, net
+❌ Brand name not found in title
+❌ Primary keyword "Manufacturer" should be front-loaded
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Remove duplicate meaningful words to make title more concise
+• Include brand name "Q.S.I. Collection" in title for brand recognition
+• Move primary keyword to the front of title (after modifiers) for better SEO
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 233 characters
+
+Meta Description Score: 75/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Meta description is too long (233 characters)
+❌ Meta description contains duplicate meaningful words: camouflage, net
+❌ Possible keyword stuffing: "camouflage" repeated multiple times
+❌ All caps text detected: MSCN, (CNMS-01), QSICO,, Q.S.I.
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Avoid repeating keywords excessively in meta description
+• Primary keyword "Manufacturer" found in meta description
+• Avoid using all caps text as it appears unprofessional and may hurt readability
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Secondary keywords found in meta description
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:40
+H3:6
+
+Headings Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Manufacturer" not found in H1 tag
+❌ Special characters found in headings: H2
+❌ Duplicate heading text found: ghillie suit army, polyester army camouflage net, military vehicles camouflage net
+
+Suggestions:
+• H1 tag properly implemented
+• Include primary keyword "Manufacturer" in H1 tag for better SEO
+• Remove special characters from headings for better readability and SEO
+
+📖 4. Body Content Analysis:
+4350 words, 27784 characters
+
+Body Content Score: 47/100
+Status: 🔴 POOR
+
+Issues:
+❌ Primary keyword density too low (0.0%)
+❌ Duplicate paragraphs detected
+
+Suggestions:
+• Consider breaking long content into sections with subheadings
+• Increase primary keyword "Manufacturer" usage to 1-2% density
+• Secondary keyword "Camouflage Net" found in content
+
+🖼️ 5. Images Analysis:
+276 total, 237 with alt text
+
+Images Score: 45/100
+Status: 🔴 POOR
+
+Images:
+Most common issues found:
+• Not responsive: 276 images
+• Old image format: 276 images
+• Missing dimensions: 276 images
+• Missing title attribute: 276 images
+• Not in figure element: 276 images
+
+General Issues:
+❌ 39 images missing alt attribute
+❌ 3 images have brand name in alt text
+❌ 237 images missing keywords in alt text
+
+Suggestions:
+• Good alt text coverage, room for improvement
+• Add alt attributes to all images for accessibility and SEO
+• Remove brand name from alt text - focus on describing the image content
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 4: https://www.qsicollection.co.in/cricket-leg-spot-shooting-ball.html
+Page Type: CATEGORY | Internal Links: 18
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Cricket Leg Spot & Shooting Ball | Manufacturer from Meerut
+Length: 59 characters
+
+Title Score: 100/100
+Status: ✅ GOOD
+
+Issues:
+❌ Special characters that may break display: '&'
+❌ Brand name not found in title
+❌ Primary keyword "Manufacturer" should be front-loaded
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Remove or properly encode special characters like quotes, brackets, and line breaks
+• Include brand name "Q.S.I. Collection" in title for brand recognition
+• Move primary keyword to the front of title (after modifiers) for better SEO
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 126 characters
+
+Meta Description Score: 95/100
+Status: 🟢 GOOD
+
+Issues:
+❌ Special characters that may break display: '&'
+❌ All caps text detected: Q.S.I.
+
+Suggestions:
+• Meta description could be slightly longer for better optimization
+• Primary keyword "Manufacturer" found in meta description
+• Remove or properly encode special characters like quotes, brackets, and line breaks
+• Avoid using all caps text as it appears unprofessional and may hurt readability
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Secondary keywords found in meta description
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:41
+H3:0
+
+Headings Score: 85/100
+Status: 🟢 GOOD
+
+Issues:
+❌ Primary keyword "Manufacturer" not found in H1 tag
+❌ Special characters found in headings: H1
+❌ All caps headings found: H2
+
+Suggestions:
+• H1 tag properly implemented
+• Include primary keyword "Manufacturer" in H1 tag for better SEO
+• Remove special characters from headings for better readability and SEO
+
+📖 4. Body Content Analysis:
+966 words, 5750 characters
+
+Body Content Score: 62/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Manufacturer" not found in body content
+❌ Average sentence length too long (40.5 words)
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Manufacturer" naturally in your content
+• Secondary keyword "Camouflage Net" found in content
+
+🖼️ 5. Images Analysis:
+85 total, 85 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+Most common issues found:
+• Not responsive: 85 images
+• Old image format: 85 images
+• Missing dimensions: 85 images
+• Missing keywords in alt text: 85 images
+• Missing title attribute: 85 images
+
+General Issues:
+❌ 3 images have brand name in alt text
+❌ 85 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Remove brand name from alt text - focus on describing the image content
+• Include relevant keywords like "Manufacturer" in alt text where appropriate
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 5: https://www.qsicollection.co.in/cricket-net.html
+Page Type: CATEGORY | Internal Links: 16
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Cricket Net - Cricket Sports Net Green QSICO (SCN-G88) Manufacturer from Meerut
+Length: 79 characters
+
+Title Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Title is too long (79 characters)
+❌ Title contains duplicate meaningful words: cricket, net
+❌ Brand name not found in title
+❌ Primary keyword "Manufacturer" should be front-loaded
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Remove duplicate meaningful words to make title more concise
+• Include brand name "Q.S.I. Collection" in title for brand recognition
+• Move primary keyword to the front of title (after modifiers) for better SEO
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 246 characters
+
+Meta Description Score: 70/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Meta description is too long (246 characters)
+❌ Meta description contains duplicate meaningful words: cricket, net, green, qsico
+❌ Possible keyword stuffing: "cricket, qsico" repeated multiple times
+❌ All caps text detected: QSICO, (SCN-G88),, QSICO, CNM-2M, QSICO, SM6B-1, Q.S.I.
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Avoid repeating keywords excessively in meta description
+• Primary keyword "Manufacturer" found in meta description
+• Avoid using all caps text as it appears unprofessional and may hurt readability
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:10
+H3:6
+
+Headings Score: 80/100
+Status: 🟢 GOOD
+
+Issues:
+❌ Primary keyword "Manufacturer" not found in H1 tag
+❌ Too many headings for content length (46 words per heading)
+
+Suggestions:
+• H1 tag properly implemented
+• Include primary keyword "Manufacturer" in H1 tag for better SEO
+• Reduce number of headings or add more content between headings
+
+📖 4. Body Content Analysis:
+1267 words, 7680 characters
+
+Body Content Score: 67/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword density too low (0.1%)
+
+Suggestions:
+• Content length is optimal for SEO
+• Increase primary keyword "Manufacturer" usage to 1-2% density
+• Secondary keyword "Camouflage Net" found in content
+
+🖼️ 5. Images Analysis:
+64 total, 55 with alt text
+
+Images Score: 45/100
+Status: 🔴 POOR
+
+Images:
+Most common issues found:
+• Not responsive: 64 images
+• Old image format: 64 images
+• Missing dimensions: 64 images
+• Missing title attribute: 64 images
+• Not in figure element: 64 images
+
+General Issues:
+❌ 9 images missing alt attribute
+❌ 3 images have brand name in alt text
+❌ 55 images missing keywords in alt text
+
+Suggestions:
+• Good alt text coverage, room for improvement
+• Add alt attributes to all images for accessibility and SEO
+• Remove brand name from alt text - focus on describing the image content
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility

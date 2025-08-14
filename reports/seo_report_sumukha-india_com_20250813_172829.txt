@@ -1,0 +1,666 @@
+
+============================================================
+COMPREHENSIVE SEO ANALYSIS REPORT
+============================================================
+
+Website: https://www.sumukha-india.com/
+Brand: Sumukha Farm Products Pvt. Ltd.
+Pages Analyzed: 5
+Analysis Date: 2025-08-13 17:28:29
+
+========================================
+SUMMARY
+========================================
+Total Issues Found: 56
+Total Suggestions: 126
+Pages with Errors: 0
+
+Overall SEO Score: 68.1/100
+
+Score Breakdown:
+  Architecture: 85/100
+  Title: 75.0/100
+  Meta Description: 65.0/100
+  Headings: 80.0/100
+  Body Content: 62.0/100
+  Images: 60.0/100
+  Schema: 17.4/100
+  Page Insights Mobile: 77.0/100
+  Page Insights Desktop: 95.0/100
+
+Schema Score Distribution:
+  Good: 1 pages
+  Fair: 0 pages
+  Poor: 4 pages
+
+Most Common Issues:
+  • Primary keyword "Exporter" not found in H1 tag (5 occurrences)
+  • Brand name "Sumukha Farm Products Pvt. Ltd." found in H1 tag (4 occurrences)
+  • Primary keyword "Exporter" not found in body content (4 occurrences)
+  • 1 images have brand name in alt text (4 occurrences)
+  • No schema markup found (4 occurrences)
+
+PageSpeed Insights Summary:
+  Mobile Performance: 77.0/100 (avg of 1 pages)
+  Desktop Performance: 95.0/100 (avg of 1 pages)
+
+Keywords Used for Analysis:
+Primary Keyword: Exporter
+Secondary Keywords: Liquid fertilizer, New Item, Micronutrient Fertilizers, Hosur
+Total Keywords Extracted: 19
+Keywords File: keywords_sumukha-india_com_20250813_172746.txt
+
+Keywords extracted from: https://www.sumukha-india.com/
+Extraction method: AI
+Extraction date: 2025-08-13 17:27:46
+Total keywords found: 19
+--------------------------------------------------
+Sumukha Farm Products Pvt. Ltd. (BRAND NAME)
+Exporter (PRIMARY KEYWORD)
+Liquid fertilizer
+New Item
+Micronutrient Fertilizers
+Hosur
+Tamil Nadu
+V O C Nagar
+Krishnagiri
+GST No. 33AARCS2852A1ZI
+TrustSEAL Verified
+Plantis Nitrophy
+Taiwan Red Lady Papaya Seeds
+PLANTIS Acti-Bor Boron 10%
+Sterilized Coir Pith
+Hybrid Vegetable Seeds
+Neem Deoiled Cake
+BATTERY SPRAYER SINGLE PUMP
+Pla
+
+
+========================================
+WEBSITE ARCHITECTURE
+========================================
+Pages Crawled: 5
+
+Architecture Score: 85/100
+Status: 🟢 GOOD
+
+Crawlability:
+  Robots.txt: Found
+  Crawling Allowed: Yes
+  Status: PASS
+
+Indexability:
+  Sitemap.xml: Found
+  URLs in Sitemap: 0
+  Status: PASS
+
+Site Structure:
+  Max Depth: 1 clicks
+  Flat Structure: 100.0%
+  Depth Distribution: {0: 1, 1: 4}
+
+URL Analysis:
+  Total URLs: 5
+  Broken Links: 0
+  Redirects: 0
+  Deep Pages (>3 clicks): 0
+  Keyword URLs: 4
+  Clean URLs: 5
+
+Issues:
+❌ Sitemap.xml is empty or invalid
+
+Suggestions:
+• Ensure your sitemap contains valid URLs and follows XML sitemap protocol
+
+========================================
+URLS TO BE ANALYZED
+========================================
+51 total urls found
+
+1. [HOMEPAGE] https://www.sumukha-india.com (16 internal links, priority: 1016)
+2. [TESTIMONIALS] https://www.sumukha-india.com/testimonial.html (10 internal links, priority: 910)
+3. [PRODUCTS] https://www.sumukha-india.com/organic-products.html (9 internal links, priority: 909)
+4. [PRODUCTS] https://www.sumukha-india.com/product-portfolio.html (5 internal links, priority: 905)
+5. [CAREERS] https://www.sumukha-india.com/job-vacancies.html (5 internal links, priority: 905)
+
+46 more URLs found but not analyzed for SEO.
+
+========================================
+PAGE-BY-PAGE ANALYSIS
+========================================
+
+Page 1: https://www.sumukha-india.com
+Page Type: HOMEPAGE | Internal Links: 16
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Sumukha Farm Products Pvt. Ltd., Hosur - Exporter of New Item and Liquid fertilizer
+Length: 83 characters
+
+Title Score: 70/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Title is too long (83 characters)
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Consider using format: "Sumukha Farm Products Pvt. Ltd. | Exporter" for homepage title
+
+📄 2. Meta Description Analysis:
+Length: 140 characters
+
+Meta Description Score: 95/100
+Status: 🟢 GOOD
+
+Issues:
+❌ Special characters that may break display: '&'
+
+Suggestions:
+• Meta description could be slightly longer for better optimization
+• Primary keyword "Exporter" found in meta description
+• Remove or properly encode special characters like quotes, brackets, and line breaks
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Secondary keywords found in meta description
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:0
+H3:0
+
+Headings Score: 80/100
+Status: 🟢 GOOD
+
+Issues:
+❌ Brand name "Sumukha Farm Products Pvt. Ltd." found in H1 tag
+❌ Primary keyword "Exporter" not found in H1 tag
+❌ Too few headings for content length (357 words per heading)
+
+Suggestions:
+• H1 tag properly implemented
+• H1 should focus on primary keyword, not brand name
+• Include primary keyword "Exporter" in H1 tag for better SEO
+
+📖 4. Body Content Analysis:
+534 words, 3653 characters
+
+Body Content Score: 69/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword density too low (0.2%)
+
+Suggestions:
+• Content length is optimal for SEO
+• Increase primary keyword "Exporter" usage to 1-2% density
+• Secondary keyword "Liquid fertilizer" found in content
+
+🖼️ 5. Images Analysis:
+18 total, 18 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+Most common issues found:
+• Not responsive: 18 images
+• Missing keywords in alt text: 18 images
+• Missing title attribute: 18 images
+• Not in figure element: 18 images
+• Missing lazy loading: 15 images
+
+General Issues:
+❌ 2 images have brand name in alt text
+❌ 18 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Remove brand name from alt text - focus on describing the image content
+• Include relevant keywords like "Exporter" in alt text where appropriate
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 87/100
+Status: 🟢 GOOD
+Schema Types: JSON-LD: LocalBusiness
+
+Issues:
+❌ Limited schema markup implementation
+
+Suggestions:
+• Organization schema has required fields (name, url)
+• Organization schema includes contact information
+• Schema markup includes images for rich snippets
+
+⚡ 7. PageSpeed Insights:
+
+MOBILE:
+Performance Score: 77/100
+Status: 🟡 NEEDS IMPROVEMENT
+LCP: 4.8 s
+FID: 70 ms
+CLS: 0.021
+FCP: 3.0 s
+TTFB: Root document took 60 ms
+
+DESKTOP:
+Performance Score: 95/100
+Status: 🟢 GOOD
+LCP: 1.1 s
+FID: 100 ms
+CLS: 0.101
+FCP: 0.5 s
+TTFB: Root document took 120 ms
+
+Page 2: https://www.sumukha-india.com/testimonial.html
+Page Type: TESTIMONIALS | Internal Links: 10
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Sumukha Farm Products Pvt. Ltd., Hosur - Exporter of New Item and Liquid fertilizer
+Length: 83 characters
+
+Title Score: 70/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Title is too long (83 characters)
+❌ Primary keyword "Exporter" should be front-loaded
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Move primary keyword to the front of title (after modifiers) for better SEO
+
+📄 2. Meta Description Analysis:
+Length: 79 characters
+
+Meta Description Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too short (79 characters)
+❌ Primary keyword "Exporter" not found in meta description
+❌ Excessive punctuation detected (5 punctuation marks)
+
+Suggestions:
+• Meta description should be between 150-160 characters for optimal search visibility
+• Include primary keyword "Exporter" in meta description for better relevance
+• Reduce punctuation usage for better readability and professional appearance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:2
+H3:0
+
+Headings Score: 80/100
+Status: 🟢 GOOD
+
+Issues:
+❌ Brand name "Sumukha Farm Products Pvt. Ltd." found in H1 tag
+❌ Primary keyword "Exporter" not found in H1 tag
+❌ Special characters found in headings: H2
+
+Suggestions:
+• H1 tag properly implemented
+• H1 should focus on primary keyword, not brand name
+• Include primary keyword "Exporter" in H1 tag for better SEO
+
+📖 4. Body Content Analysis:
+856 words, 5721 characters
+
+Body Content Score: 59/100
+Status: 🔴 POOR
+
+Issues:
+❌ Primary keyword "Exporter" not found in body content
+❌ Average sentence length too long (50.4 words)
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Exporter" naturally in your content
+• Secondary keyword "Liquid fertilizer" found in content
+
+🖼️ 5. Images Analysis:
+41 total, 41 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+Most common issues found:
+• Not responsive: 41 images
+• Missing dimensions: 41 images
+• Missing keywords in alt text: 41 images
+• Missing title attribute: 41 images
+• Not in figure element: 41 images
+
+General Issues:
+❌ 1 images have brand name in alt text
+❌ 41 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Remove brand name from alt text - focus on describing the image content
+• Include relevant keywords like "Exporter" in alt text where appropriate
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 3: https://www.sumukha-india.com/organic-products.html
+Page Type: PRODUCTS | Internal Links: 9
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: organic products - Sterilized Coir Pith Exporter from Hosur
+Length: 59 characters
+
+Title Score: 100/100
+Status: ✅ GOOD
+
+Issues:
+❌ Brand name not found in title
+❌ Primary keyword "Exporter" should be front-loaded
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include brand name "Sumukha Farm Products Pvt. Ltd." in title for brand recognition
+• Move primary keyword to the front of title (after modifiers) for better SEO
+
+📄 2. Meta Description Analysis:
+Length: 114 characters
+
+Meta Description Score: 60/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Meta description is too short (114 characters)
+❌ Meta description contains duplicate meaningful words: products
+
+Suggestions:
+• Meta description should be between 150-160 characters for optimal search visibility
+• Remove duplicate meaningful words to make description more concise
+• Primary keyword "Exporter" found in meta description
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:2
+H3:0
+
+Headings Score: 80/100
+Status: 🟢 GOOD
+
+Issues:
+❌ Primary keyword "Exporter" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Include primary keyword "Exporter" in H1 tag for better SEO
+• Consider including secondary keyword "Liquid fertilizer" in H2-H6 headings for better SEO coverage
+
+📖 4. Body Content Analysis:
+411 words, 2801 characters
+
+Body Content Score: 64/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Exporter" not found in body content
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Exporter" naturally in your content
+• Secondary keyword "Liquid fertilizer" found in content
+
+🖼️ 5. Images Analysis:
+17 total, 17 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+Most common issues found:
+• Not responsive: 17 images
+• Missing dimensions: 17 images
+• Missing keywords in alt text: 17 images
+• Missing title attribute: 17 images
+• Not in figure element: 17 images
+
+General Issues:
+❌ 1 images have brand name in alt text
+❌ 17 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Remove brand name from alt text - focus on describing the image content
+• Include relevant keywords like "Exporter" in alt text where appropriate
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 4: https://www.sumukha-india.com/product-portfolio.html
+Page Type: PRODUCTS | Internal Links: 5
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Sumukha Farm Products Pvt. Ltd. - Product Portfolio
+Length: 51 characters
+
+Title Score: 75/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Primary keyword "Exporter" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include primary keyword "Exporter" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 284 characters
+
+Meta Description Score: 70/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Meta description is too long (284 characters)
+❌ Meta description contains duplicate meaningful words: plantis
+❌ All caps text detected: PLANTIS, (NSA105)
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Primary keyword "Exporter" found in meta description
+• Avoid using all caps text as it appears unprofessional and may hurt readability
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:2
+H3:1
+
+Headings Score: 80/100
+Status: 🟢 GOOD
+
+Issues:
+❌ Brand name "Sumukha Farm Products Pvt. Ltd." found in H1 tag
+❌ Primary keyword "Exporter" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• H1 should focus on primary keyword, not brand name
+• Include primary keyword "Exporter" in H1 tag for better SEO
+
+📖 4. Body Content Analysis:
+639 words, 4221 characters
+
+Body Content Score: 59/100
+Status: 🔴 POOR
+
+Issues:
+❌ Primary keyword "Exporter" not found in body content
+❌ Average sentence length too long (30.4 words)
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Exporter" naturally in your content
+• Secondary keyword "Liquid fertilizer" found in content
+
+🖼️ 5. Images Analysis:
+39 total, 39 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+Most common issues found:
+• Not responsive: 39 images
+• Missing dimensions: 39 images
+• Missing keywords in alt text: 39 images
+• Missing title attribute: 39 images
+• Not in figure element: 39 images
+
+General Issues:
+❌ 1 images have brand name in alt text
+❌ 39 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Remove brand name from alt text - focus on describing the image content
+• Include relevant keywords like "Exporter" in alt text where appropriate
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 5: https://www.sumukha-india.com/job-vacancies.html
+Page Type: CAREERS | Internal Links: 5
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Job Vacancies at Sumukha Farm Products Pvt. Ltd.
+Length: 48 characters
+
+Title Score: 60/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Primary keyword "Exporter" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include primary keyword "Exporter" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 80 characters
+
+Meta Description Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too short (80 characters)
+❌ Primary keyword "Exporter" not found in meta description
+❌ Excessive punctuation detected (5 punctuation marks)
+
+Suggestions:
+• Meta description should be between 150-160 characters for optimal search visibility
+• Include primary keyword "Exporter" in meta description for better relevance
+• Reduce punctuation usage for better readability and professional appearance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:2
+H3:1
+
+Headings Score: 80/100
+Status: 🟢 GOOD
+
+Issues:
+❌ Brand name "Sumukha Farm Products Pvt. Ltd." found in H1 tag
+❌ Primary keyword "Exporter" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• H1 should focus on primary keyword, not brand name
+• Include primary keyword "Exporter" in H1 tag for better SEO
+
+📖 4. Body Content Analysis:
+537 words, 3578 characters
+
+Body Content Score: 59/100
+Status: 🔴 POOR
+
+Issues:
+❌ Primary keyword "Exporter" not found in body content
+❌ Average sentence length too long (35.8 words)
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Exporter" naturally in your content
+• Secondary keyword "Liquid fertilizer" found in content
+
+🖼️ 5. Images Analysis:
+39 total, 39 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+Most common issues found:
+• Not responsive: 39 images
+• Missing dimensions: 39 images
+• Missing keywords in alt text: 39 images
+• Missing title attribute: 39 images
+• Not in figure element: 39 images
+
+General Issues:
+❌ 1 images have brand name in alt text
+❌ 39 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Remove brand name from alt text - focus on describing the image content
+• Include relevant keywords like "Exporter" in alt text where appropriate
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility

@@ -1,0 +1,715 @@
+
+============================================================
+COMPREHENSIVE SEO ANALYSIS REPORT
+============================================================
+
+Website: https://www.planetplastics.in/
+Brand: Planet Polynet
+Pages Analyzed: 5
+Analysis Date: 2025-08-13 17:07:23
+
+========================================
+SUMMARY
+========================================
+Total Issues Found: 111
+Total Suggestions: 175
+Pages with Errors: 0
+
+Overall SEO Score: 52.7/100
+
+Score Breakdown:
+  Architecture: 85/100
+  Title: 38.0/100
+  Meta Description: 51.0/100
+  Headings: 51.0/100
+  Body Content: 46.4/100
+  Images: 51.0/100
+  Schema: 17.4/100
+  Page Insights Mobile: 76.0/100
+  Page Insights Desktop: 93.0/100
+
+Schema Score Distribution:
+  Good: 1 pages
+  Fair: 0 pages
+  Poor: 4 pages
+
+Most Common Issues:
+  • Primary keyword "Grass Reinforcement Mesh" not found in meta description (5 occurrences)
+  • Heading hierarchy skipped from H1 to H4 (5 occurrences)
+  • Brand name "Planet Polynet" found in H1 tag (5 occurrences)
+  • Primary keyword "Grass Reinforcement Mesh" not found in H1 tag (5 occurrences)
+  • 2 images have brand name in alt text (5 occurrences)
+
+PageSpeed Insights Summary:
+  Mobile Performance: 76.0/100 (avg of 1 pages)
+  Desktop Performance: 93.0/100 (avg of 1 pages)
+
+Keywords Used for Analysis:
+Primary Keyword: Grass Reinforcement Mesh
+Secondary Keywords: Fencing Nets, Gutter Guard Mesh, Plastic Reinforcement Mesh, Plastic Nets
+Total Keywords Extracted: 20
+Keywords File: keywords_planetplastics_in_20250813_170640.txt
+
+Keywords extracted from: https://www.planetplastics.in/
+Extraction method: AI
+Extraction date: 2025-08-13 17:06:40
+Total keywords found: 20
+--------------------------------------------------
+Planet Polynet (BRAND NAME)
+Grass Reinforcement Mesh (PRIMARY KEYWORD)
+Fencing Nets
+Gutter Guard Mesh
+Plastic Reinforcement Mesh
+Plastic Nets
+Net Sheets
+Plastic Mountage
+Plastic Mesh
+Agriculture Shade Nets
+Hdpe Fencing Net
+Nursery Green Shade Net
+Agro Shade Nets
+3d Erosion Control Geo Mats
+Poultry Fencing Nets
+Sericulture Plastic Mounted Net
+Hexagonal Plastic Netrika
+HDPE Geonets
+Drainage Geo composite
+Civil Construction Mesh
+
+
+========================================
+WEBSITE ARCHITECTURE
+========================================
+Pages Crawled: 5
+
+Architecture Score: 85/100
+Status: 🟢 GOOD
+
+Crawlability:
+  Robots.txt: Found
+  Crawling Allowed: Yes
+  Status: PASS
+
+Indexability:
+  Sitemap.xml: Found
+  URLs in Sitemap: 0
+  Status: PASS
+
+Site Structure:
+  Max Depth: 1 clicks
+  Flat Structure: 100.0%
+  Depth Distribution: {0: 1, 1: 4}
+
+URL Analysis:
+  Total URLs: 5
+  Broken Links: 0
+  Redirects: 0
+  Deep Pages (>3 clicks): 0
+  Keyword URLs: 4
+  Clean URLs: 5
+
+Issues:
+❌ Sitemap.xml is empty or invalid
+
+Suggestions:
+• Ensure your sitemap contains valid URLs and follows XML sitemap protocol
+
+========================================
+URLS TO BE ANALYZED
+========================================
+38 total urls found
+
+1. [HOMEPAGE] https://www.planetplastics.in (16 internal links, priority: 1016)
+2. [ABOUT] https://www.planetplastics.in/about-us.html (11 internal links, priority: 911)
+3. [TESTIMONIALS] https://www.planetplastics.in/testimonial.html (10 internal links, priority: 910)
+4. [CAREERS] https://www.planetplastics.in/jobs.html (5 internal links, priority: 905)
+5. [OTHER] https://www.planetplastics.in/civil-construction-mesh.html (83 internal links, priority: 153)
+
+33 more URLs found but not analyzed for SEO.
+
+========================================
+PAGE-BY-PAGE ANALYSIS
+========================================
+
+Page 1: https://www.planetplastics.in
+Page Type: HOMEPAGE | Internal Links: 16
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Grass Reinforcement Mesh, Fencing Nets, Gutter Guard Mesh, Plastic Reinforcement Mesh, India
+Length: 92 characters
+
+Title Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Title is too long (92 characters)
+❌ Title contains duplicate meaningful words: reinforcement, mesh,
+❌ Possible keyword stuffing: "mesh," repeated multiple times
+❌ Excessive punctuation detected (4 punctuation marks)
+❌ Brand name not found in title
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Remove duplicate meaningful words to make title more concise
+• Avoid repeating keywords excessively in title
+• Reduce punctuation usage for better readability and professional appearance
+• Include brand name "Planet Polynet" in title for brand recognition
+• Consider using format: "Planet Polynet | Grass Reinforcement Mesh" for homepage title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 219 characters
+
+Meta Description Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too long (219 characters)
+❌ Meta description contains duplicate meaningful words: range, plastic
+❌ Primary keyword "Grass Reinforcement Mesh" not found in meta description
+❌ Special characters that may break display: '&'
+❌ All caps text detected: FMCG,
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Include primary keyword "Grass Reinforcement Mesh" in meta description for better relevance
+• Remove or properly encode special characters like quotes, brackets, and line breaks
+• Avoid using all caps text as it appears unprofessional and may hurt readability
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:68
+H3:16
+
+Headings Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Brand name "Planet Polynet" found in H1 tag
+❌ Primary keyword "Grass Reinforcement Mesh" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• H1 should focus on primary keyword, not brand name
+
+📖 4. Body Content Analysis:
+1254 words, 8166 characters
+
+Body Content Score: 62/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Primary keyword "Grass Reinforcement Mesh" not found in body content
+❌ Average sentence length too long (78.4 words)
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Grass Reinforcement Mesh" naturally in your content
+• Secondary keyword "Fencing Nets" found in content
+
+🖼️ 5. Images Analysis:
+66 total, 66 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+Most common issues found:
+• Not responsive: 66 images
+• Missing dimensions: 66 images
+• Missing keywords in alt text: 66 images
+• Missing title attribute: 66 images
+• Missing lazy loading: 63 images
+
+General Issues:
+❌ 2 images have brand name in alt text
+❌ 66 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Remove brand name from alt text - focus on describing the image content
+• Include relevant keywords like "Grass Reinforcement Mesh" in alt text where appropriate
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 87/100
+Status: 🟢 GOOD
+Schema Types: JSON-LD: LocalBusiness
+
+Issues:
+❌ Limited schema markup implementation
+
+Suggestions:
+• Organization schema has required fields (name, url)
+• Organization schema includes contact information
+• Add Review or AggregateRating schema to existing ratings
+
+⚡ 7. PageSpeed Insights:
+
+MOBILE:
+Performance Score: 76/100
+Status: 🟡 NEEDS IMPROVEMENT
+LCP: 4.9 s
+FID: 70 ms
+CLS: 0.011
+FCP: 2.6 s
+TTFB: Root document took 70 ms
+
+DESKTOP:
+Performance Score: 93/100
+Status: 🟢 GOOD
+LCP: 1.7 s
+FID: 70 ms
+CLS: 0.025
+FCP: 0.8 s
+TTFB: Root document took 50 ms
+
+Page 2: https://www.planetplastics.in/about-us.html
+Page Type: ABOUT | Internal Links: 11
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Industrial Packaging Net, Tree Guard Mesh, Bathing Loofah, Windbreak Fencing Mesh, India
+Length: 88 characters
+
+Title Score: 20/100
+Status: 🔴 POOR
+
+Issues:
+❌ Title is too long (88 characters)
+❌ Title contains duplicate meaningful words: mesh,
+❌ Excessive punctuation detected (4 punctuation marks)
+❌ Brand name not found in title
+❌ Primary keyword "Grass Reinforcement Mesh" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Remove duplicate meaningful words to make title more concise
+• Reduce punctuation usage for better readability and professional appearance
+• Include brand name "Planet Polynet" in title for brand recognition
+• Include primary keyword "Grass Reinforcement Mesh" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+
+📄 2. Meta Description Analysis:
+Length: 402 characters
+
+Meta Description Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too long (402 characters)
+❌ Meta description contains duplicate meaningful words: industrial, packaging, net,, mesh,, polymer, protective, mats,
+❌ Possible keyword stuffing: "industrial, net,, mesh,, protective, mats," repeated multiple times
+❌ Primary keyword "Grass Reinforcement Mesh" not found in meta description
+❌ Excessive punctuation detected (22 punctuation marks)
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Avoid repeating keywords excessively in meta description
+• Include primary keyword "Grass Reinforcement Mesh" in meta description for better relevance
+• Reduce punctuation usage for better readability and professional appearance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:9
+H3:9
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Brand name "Planet Polynet" found in H1 tag
+❌ Primary keyword "Grass Reinforcement Mesh" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• H1 should focus on primary keyword, not brand name
+
+📖 4. Body Content Analysis:
+1012 words, 6600 characters
+
+Body Content Score: 42/100
+Status: 🔴 POOR
+
+Issues:
+❌ Primary keyword "Grass Reinforcement Mesh" not found in body content
+❌ Average sentence length too long (28.9 words)
+❌ Duplicate paragraphs detected
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Grass Reinforcement Mesh" naturally in your content
+• Secondary keyword "Fencing Nets" found in content
+
+🖼️ 5. Images Analysis:
+5 total, 5 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+Most common issues found:
+• Not responsive: 5 images
+• Missing dimensions: 5 images
+• Missing keywords in alt text: 5 images
+• Missing title attribute: 5 images
+• Missing lazy loading: 2 images
+
+General Issues:
+❌ 2 images have brand name in alt text
+❌ 5 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Remove brand name from alt text - focus on describing the image content
+• Include relevant keywords like "Grass Reinforcement Mesh" in alt text where appropriate
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 3: https://www.planetplastics.in/testimonial.html
+Page Type: TESTIMONIALS | Internal Links: 10
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Grass Reinforcement Mesh, Fencing Nets, Gutter Guard Mesh, Plastic Reinforcement Mesh, India
+Length: 92 characters
+
+Title Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Title is too long (92 characters)
+❌ Title contains duplicate meaningful words: reinforcement, mesh,
+❌ Possible keyword stuffing: "mesh," repeated multiple times
+❌ Excessive punctuation detected (4 punctuation marks)
+❌ Brand name not found in title
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Remove duplicate meaningful words to make title more concise
+• Avoid repeating keywords excessively in title
+• Reduce punctuation usage for better readability and professional appearance
+• Include brand name "Planet Polynet" in title for brand recognition
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 59 characters
+
+Meta Description Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too short (59 characters)
+❌ Primary keyword "Grass Reinforcement Mesh" not found in meta description
+❌ Excessive punctuation detected (3 punctuation marks)
+
+Suggestions:
+• Meta description should be between 150-160 characters for optimal search visibility
+• Include primary keyword "Grass Reinforcement Mesh" in meta description for better relevance
+• Reduce punctuation usage for better readability and professional appearance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:8
+H3:1
+
+Headings Score: 65/100
+Status: 🟡 FAIR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Brand name "Planet Polynet" found in H1 tag
+❌ Primary keyword "Grass Reinforcement Mesh" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• H1 should focus on primary keyword, not brand name
+
+📖 4. Body Content Analysis:
+599 words, 4054 characters
+
+Body Content Score: 42/100
+Status: 🔴 POOR
+
+Issues:
+❌ Primary keyword "Grass Reinforcement Mesh" not found in body content
+❌ Average sentence length too long (60.1 words)
+❌ Duplicate paragraphs detected
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Grass Reinforcement Mesh" naturally in your content
+• Secondary keyword "Fencing Nets" found in content
+
+🖼️ 5. Images Analysis:
+5 total, 5 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+Most common issues found:
+• Not responsive: 5 images
+• Missing dimensions: 5 images
+• Missing keywords in alt text: 5 images
+• Missing title attribute: 5 images
+• Missing lazy loading: 2 images
+
+General Issues:
+❌ 2 images have brand name in alt text
+❌ 5 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Remove brand name from alt text - focus on describing the image content
+• Include relevant keywords like "Grass Reinforcement Mesh" in alt text where appropriate
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 4: https://www.planetplastics.in/jobs.html
+Page Type: CAREERS | Internal Links: 5
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Job Vacancies at Planet Polynet
+Length: 31 characters
+
+Title Score: 60/100
+Status: ⚠️ FAIR
+
+Issues:
+❌ Primary keyword "Grass Reinforcement Mesh" not found in title
+❌ No target keywords found in title
+
+Suggestions:
+• Title length is optimal (50-60 characters)
+• Include primary keyword "Grass Reinforcement Mesh" in title for better SEO
+• Include relevant keywords from your keyword list in the title
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 60 characters
+
+Meta Description Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too short (60 characters)
+❌ Primary keyword "Grass Reinforcement Mesh" not found in meta description
+❌ Excessive punctuation detected (3 punctuation marks)
+
+Suggestions:
+• Meta description should be between 150-160 characters for optimal search visibility
+• Include primary keyword "Grass Reinforcement Mesh" in meta description for better relevance
+• Reduce punctuation usage for better readability and professional appearance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:8
+H3:5
+
+Headings Score: 45/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Brand name "Planet Polynet" found in H1 tag
+❌ Primary keyword "Grass Reinforcement Mesh" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• H1 should focus on primary keyword, not brand name
+
+📖 4. Body Content Analysis:
+492 words, 3445 characters
+
+Body Content Score: 44/100
+Status: 🔴 POOR
+
+Issues:
+❌ Primary keyword "Grass Reinforcement Mesh" not found in body content
+❌ Duplicate paragraphs detected
+
+Suggestions:
+• Content length is optimal for SEO
+• Include primary keyword "Grass Reinforcement Mesh" naturally in your content
+• Secondary keyword "Fencing Nets" found in content
+
+🖼️ 5. Images Analysis:
+5 total, 5 with alt text
+
+Images Score: 60/100
+Status: 🟡 FAIR
+
+Images:
+Most common issues found:
+• Not responsive: 5 images
+• Missing dimensions: 5 images
+• Missing keywords in alt text: 5 images
+• Missing title attribute: 5 images
+• Missing lazy loading: 2 images
+
+General Issues:
+❌ 2 images have brand name in alt text
+❌ 5 images missing keywords in alt text
+
+Suggestions:
+• Excellent alt text coverage
+• Remove brand name from alt text - focus on describing the image content
+• Include relevant keywords like "Grass Reinforcement Mesh" in alt text where appropriate
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility
+
+Page 5: https://www.planetplastics.in/civil-construction-mesh.html
+Page Type: OTHER | Internal Links: 83
+--------------------------------------------------
+
+📝 1. Title Tag Analysis:
+Title: Civil Construction Mesh - Mesh Net Fencing Manufacturer from Nagpur
+Length: 67 characters
+
+Title Score: 20/100
+Status: 🔴 POOR
+
+Issues:
+❌ Title is too long (67 characters)
+❌ Title contains duplicate meaningful words: mesh
+❌ Brand name not found in title
+❌ Primary keyword "Grass Reinforcement Mesh" not found in title
+
+Suggestions:
+• Title should be between 50-60 characters to avoid truncation in search results
+• Remove duplicate meaningful words to make title more concise
+• Include brand name "Planet Polynet" in title for brand recognition
+• Include primary keyword "Grass Reinforcement Mesh" in title for better SEO
+• Consider adding secondary keywords to improve relevance
+• Consider adding modifier words (best, top, professional, etc.) to make title more compelling
+
+📄 2. Meta Description Analysis:
+Length: 165 characters
+
+Meta Description Score: 55/100
+Status: 🔴 POOR
+
+Issues:
+❌ Meta description is too long (165 characters)
+❌ Meta description contains duplicate meaningful words: mesh
+❌ Possible keyword stuffing: "mesh" repeated multiple times
+❌ Primary keyword "Grass Reinforcement Mesh" not found in meta description
+
+Suggestions:
+• Meta description should be between 150-160 characters to avoid truncation
+• Remove duplicate meaningful words to make description more concise
+• Avoid repeating keywords excessively in meta description
+• Include primary keyword "Grass Reinforcement Mesh" in meta description for better relevance
+• Consider adding a call-to-action to encourage clicks (e.g., "Learn more", "Get started")
+• Secondary keywords found in meta description
+• Consider adding compelling adjectives to make description more attractive
+
+🏷️ 3. Headings Analysis:
+H1:1
+H2:8
+H3:13
+
+Headings Score: 50/100
+Status: 🔴 POOR
+
+Issues:
+❌ Heading hierarchy skipped from H1 to H4
+❌ Brand name "Planet Polynet" found in H1 tag
+❌ Primary keyword "Grass Reinforcement Mesh" not found in H1 tag
+
+Suggestions:
+• H1 tag properly implemented
+• Maintain proper heading hierarchy - don't skip heading levels (e.g., H1 → H2 → H3)
+• H1 should focus on primary keyword, not brand name
+
+📖 4. Body Content Analysis:
+2207 words, 14221 characters
+
+Body Content Score: 42/100
+Status: 🔴 POOR
+
+Issues:
+❌ Primary keyword density too low (0.0%)
+❌ Average sentence length too long (35.6 words)
+❌ Duplicate paragraphs detected
+
+Suggestions:
+• Consider breaking long content into sections with subheadings
+• Increase primary keyword "Grass Reinforcement Mesh" usage to 1-2% density
+• Secondary keyword "Fencing Nets" found in content
+
+🖼️ 5. Images Analysis:
+76 total, 5 with alt text
+
+Images Score: 15/100
+Status: 🔴 POOR
+
+Images:
+Most common issues found:
+• Not responsive: 76 images
+• Missing dimensions: 76 images
+• Missing title attribute: 76 images
+• Missing lazy loading: 73 images
+• Not in figure element: 73 images
+
+General Issues:
+❌ 142 images missing proper alt text
+❌ 71 images missing alt attribute
+❌ 71 images have empty alt text
+
+Suggestions:
+• Add alt attributes to all images for accessibility and SEO
+• Add alt attributes to all images for accessibility and SEO
+• Provide descriptive alt text for images (or use alt="" for decorative images)
+
+🔗 6. Schema Markup Analysis:
+Schema Score: 0/100
+Status:  
+
+Issues:
+❌ No schema markup found
+
+Suggestions:
+• Add structured data markup (JSON-LD recommended) for better search visibility

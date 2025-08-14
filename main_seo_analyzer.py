@@ -667,55 +667,90 @@ def print_report(report: dict):
     
 
 
-if __name__ == "__main__":
-    print("COMPREHENSIVE SEO ANALYZER")
-    print("=" * 30)
-    
-    base_url = input("Enter website URL to analyze: ")
-    
-    # Optional brand name input
-    user_brand_name = input("Enter brand name (optional - will use extracted brand if empty): ").strip()
-    if not user_brand_name:
-        user_brand_name = None
-        print("Will use brand name from keyword extraction")
-    else:
-        print(f"Will use provided brand name: {user_brand_name}")
-    
-    num_pages = int(input("Enter maximum number of pages to analyze (default 5): ") or "5")
-    
-    # Ask for keyword extraction method
-    keyword_method = input("Use AI for keyword extraction? (y/n, default n): ").lower().strip()
-    use_ai_keywords = keyword_method == 'y'
-    
+def read_websites_file(filename: str = "input_data/websites.txt") -> list:
+    """Read websites from input file"""
+    websites = []
     try:
-        print(f"\nStarting comprehensive SEO analysis...")
-        print(f"This will analyze up to {num_pages} pages and may take several minutes.")
+        with open(filename, 'r') as f:
+            for line in f:
+                line = line.strip()
+                if not line or line.startswith('#'):
+                    continue
+                
+                parts = line.split(',')
+                url = parts[0].strip()
+                
+                # Default values
+                num_pages = 5
+                use_ai = True  # Default to YES for AI keywords
+                
+                # Parse num_pages if provided
+                if len(parts) > 1 and parts[1].strip():
+                    try:
+                        num_pages = int(parts[1].strip())
+                    except ValueError:
+                        pass
+                
+                # Parse AI flag if provided
+                if len(parts) > 2 and parts[2].strip():
+                    ai_flag = parts[2].strip().lower()
+                    use_ai = ai_flag == 'y'
+                
+                websites.append({
+                    'url': url,
+                    'num_pages': num_pages,
+                    'use_ai': use_ai
+                })
+    
+    except FileNotFoundError:
+        print(f"Error: {filename} not found")
+        return []
+    
+    return websites
+
+if __name__ == "__main__":
+    print("COMPREHENSIVE SEO ANALYZER - BATCH MODE")
+    print("=" * 40)
+    
+    websites = read_websites_file("input_data/websites.txt")
+    if not websites:
+        print("No websites found in websites.txt")
+        exit(1)
+    
+    print(f"Found {len(websites)} websites to analyze")
+    
+    # Create reports directory
+    reports_dir = os.path.join(os.getcwd(), 'reports')
+    os.makedirs(reports_dir, exist_ok=True)
+    
+    for i, site in enumerate(websites, 1):
+        print(f"\n{'='*60}")
+        print(f"ANALYZING WEBSITE {i}/{len(websites)}: {site['url']}")
+        print(f"Pages: {site['num_pages']}, AI Keywords: {'Yes' if site['use_ai'] else 'No'}")
+        print("="*60)
         
-        report = generate_seo_report(base_url, num_pages, use_ai_keywords, user_brand_name)
-        print_report(report)
-        
-        # Optionally save report to file
-        save_report = input("\nSave report to file? (y/n): ").lower().strip()
-        if save_report == 'y':
-            # Create reports directory if it doesn't exist
-            reports_dir = os.path.join(os.getcwd(), 'reports')
-            os.makedirs(reports_dir, exist_ok=True)
+        try:
+            report = generate_seo_report(site['url'], site['num_pages'], site['use_ai'])
+            print_report(report)
             
-            domain = urlparse(base_url).netloc.replace('www.', '').replace('.', '_')
+            # Auto-save report
+            domain = urlparse(site['url']).netloc.replace('www.', '').replace('.', '_')
             filename = f"seo_report_{domain}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
             filepath = os.path.join(reports_dir, filename)
             
             with open(filepath, 'w') as f:
-                # Redirect print output to file
                 import sys
                 original_stdout = sys.stdout
                 sys.stdout = f
                 print_report(report)
                 sys.stdout = original_stdout
             
-            print(f"Report saved to: {filepath}")
-        
-    except Exception as e:
-        print(f"Error: {e}")
-        import traceback
-        traceback.print_exc()
+            print(f"\nReport saved to: {filepath}")
+            
+        except Exception as e:
+            print(f"Error analyzing {site['url']}: {e}")
+            import traceback
+            traceback.print_exc()
+    
+    print(f"\nCompleted analysis of {len(websites)} websites")
+    print(f"Reports saved in: {reports_dir}")
