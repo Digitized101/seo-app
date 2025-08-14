@@ -1,22 +1,14 @@
-.DS_Store
-.DS_Store
+# Environment variables
 .env
-.env
-.env.*
-*.pem
-*.key
-*.p12
-*.pfx
-*.crt
-*.cer
-*.der
-.DS_Store
-.env
-.env.*
-*.pem
-*.key
-*.p12
-*.pfx
-.DS_Store
-replacements.txt
-.env
+
+# Output files
+kwd_*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
