@@ -2,7 +2,15 @@
 .env
 
 # Output files
-kwd_*.txt
+*.txt
+
+# Exception: Keep requirements.txt
+!requirements.txt
+
+# Data and output folders
+input_Data/
+reports/
+output/
 
 # Python cache
 __pycache__/
