@@ -85,8 +85,8 @@ def analyze_images_seo(html: str, keyword_list: list = [], base_url: str = "", b
             result['suggestions'].append('Remove brand name from alt text - focus on describing the image content')
     
     # Check for keywords in alt text (use primary keyword, not brand name)
-    if keyword_list and len(keyword_list) > 1 and good_alt:
-        primary_keyword = keyword_list[1].lower()  # Primary keyword is second in list
+    if keyword_list and len(keyword_list) > 0 and good_alt:
+        primary_keyword = keyword_list[0].lower()  # Primary keyword is first in list
         images_with_keywords = 0
         
         for img in good_alt:
@@ -98,7 +98,7 @@ def analyze_images_seo(html: str, keyword_list: list = [], base_url: str = "", b
         
         if result['missing_keywords_count'] > 0:
             result['issues'].append(f'{result["missing_keywords_count"]} images missing keywords in alt text')
-            result['suggestions'].append(f'Include relevant keywords like "{keyword_list[1]}" in alt text where appropriate')
+            result['suggestions'].append(f'Include relevant keywords like "{keyword_list[0]}" in alt text where appropriate')
     
     # Check alt text quality
     poor_alt = []
@@ -259,8 +259,8 @@ def analyze_images_seo(html: str, keyword_list: list = [], base_url: str = "", b
                 image_issues.append('Contains brand name in alt text')
                 has_issues = True
             
-            if keyword_list and len(keyword_list) > 1:
-                primary_keyword = keyword_list[1].lower()  # Primary keyword is second in list
+            if keyword_list and len(keyword_list) > 0:
+                primary_keyword = keyword_list[0].lower()  # Primary keyword is first in list
                 if primary_keyword not in alt_text.lower():
                     image_issues.append('Missing keywords in alt text')
                     common_issues_count['Missing keywords in alt text'] += 1

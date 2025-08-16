@@ -150,8 +150,8 @@ def analyze_title_seo(html: str, brand_name: str = "", keyword_list: list = [], 
 
     
     # Check for primary keyword and placement based on page type
-    if keyword_list and len(keyword_list) > 1:
-        primary_keyword = ' '.join(keyword_list[1].strip().split())  # Primary keyword is second in list
+    if keyword_list and len(keyword_list) > 0:
+        primary_keyword = ' '.join(keyword_list[0].strip().split())  # Primary keyword is first in list
         title_lower = title_text.lower()
         
         if primary_keyword.lower() not in title_lower:
@@ -193,8 +193,8 @@ def analyze_title_seo(html: str, brand_name: str = "", keyword_list: list = [], 
                         result['issues'].append(f'Primary keyword "{primary_keyword}" should be front-loaded')
                         result['suggestions'].append('Move primary keyword to the front of title (after modifiers) for better SEO')
         
-        # Check for any keywords (skip brand name which is first in list)
-        keywords_to_check = keyword_list[1:] if len(keyword_list) > 1 else keyword_list
+        # Check for any keywords
+        keywords_to_check = keyword_list
         keywords_found = [kw for kw in keywords_to_check if kw.lower() in title_lower]
         if not keywords_found:
             result['issues'].append('No target keywords found in title')
@@ -226,7 +226,7 @@ def analyze_title_seo(html: str, brand_name: str = "", keyword_list: list = [], 
         score += 25
     
     # Keyword alignment (25 points) - primary keyword present
-    if keyword_list and len(keyword_list) > 1 and keyword_list[1].lower() in title_lower:
+    if keyword_list and len(keyword_list) > 0 and keyword_list[0].lower() in title_lower:
         score += 25
     
     # No truncation risk (15 points) - length <= 60

@@ -126,10 +126,10 @@ def analyze_headings_seo(html: str, keyword_list: list = [], brand_name: str = "
             result['issues'].append(f'Brand name "{brand_name}" found in H1 tag')
             required_suggestions.append('H1 should focus on primary keyword, not brand name')
     
-    # Keyword use check (20 points) - use primary keyword (second in list)
+    # Keyword use check (20 points) - use primary keyword (first in list)
     keyword_score = 0
-    if keyword_list and len(keyword_list) > 1 and h1_tags and len(h1_tags) == 1:
-        primary_keyword = ' '.join(keyword_list[1].strip().split())
+    if keyword_list and len(keyword_list) > 0 and h1_tags and len(h1_tags) == 1:
+        primary_keyword = ' '.join(keyword_list[0].strip().split())
         h1_text = h1_tags[0].get_text(strip=True).lower()
         
         if primary_keyword.lower() in h1_text:
@@ -166,8 +166,8 @@ def analyze_headings_seo(html: str, keyword_list: list = [], brand_name: str = "
                 required_suggestions.append('Make H1 tag more descriptive (10-70 characters recommended)')
     
     # Check for keyword stuffing in headings
-    if keyword_list and len(keyword_list) > 1:
-        primary_keyword = ' '.join(keyword_list[1].strip().split())
+    if keyword_list and len(keyword_list) > 0:
+        primary_keyword = ' '.join(keyword_list[0].strip().split())
         keyword_count_in_headings = 0
         
         for heading in all_headings:

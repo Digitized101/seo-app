@@ -120,7 +120,7 @@ def generate_seo_report(base_url: str, num_pages: int = 5, use_ai_keywords: bool
     else:
         # Parse keywords: 1st line = brand name, 2nd line = primary keyword, rest = secondary
         brand_name = keyword_list[0] if len(keyword_list) > 0 else "Brand"
-        primary_keyword = keyword_list[1] if len(keyword_list) > 1 else "Keyword"
+        primary_keyword = keyword_list[0] if len(keyword_list) > 0 else "Keyword"
         secondary_keywords = keyword_list[2:] if len(keyword_list) > 2 else []
         
         print(f"Brand Name: {brand_name}")

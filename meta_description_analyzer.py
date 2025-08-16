@@ -140,7 +140,7 @@ def analyze_meta_description_seo(html: str, keyword_list: list = []) -> dict:
     # Keyword alignment (30 points)
     keyword_score = 0
     if keyword_list and len(keyword_list) > 1:
-        primary_keyword = ' '.join(keyword_list[1].strip().split())  # Primary keyword is second in list
+        primary_keyword = ' '.join(keyword_list[0].strip().split())  # Primary keyword is first in list
         desc_lower = desc_text.lower()
         
         # Primary keyword check (20 points)
